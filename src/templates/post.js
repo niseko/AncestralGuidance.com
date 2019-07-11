@@ -5,7 +5,6 @@ import Img from 'gatsby-image'
 import Layout from '../layout'
 import UserInfo from '../components/UserInfo'
 import PostTags from '../components/PostTags'
-import NewsletterForm from '../components/NewsletterForm'
 import SEO from '../components/SEO'
 import config from '../../data/SiteConfig'
 import { formatDate, editOnGithub } from '../utils/global'
@@ -35,11 +34,22 @@ export default class PostTemplate extends Component {
     const twitterShare = `http://twitter.com/share?text=${encodeURIComponent(post.title)}&url=${
       config.siteUrl
     }/${post.slug}/&via=taniarascia`
-
+    // <script>{`$WowheadPower.init()`}</script>
     return (
       <Layout>
         <Helmet>
           <title>{`${post.title} – ${config.siteTitle}`}</title>
+          <script>{`
+                
+                    // update tooltips
+                    if(typeof $WowheadPower == 'undefined'){
+                      $.getScript('//wow.zamimg.com/widgets/power.js');
+                    } else {
+                      $WowheadPower.refreshLinks();
+                    }
+                
+              `}
+              </script>
         </Helmet>
         <SEO postPath={slug} postNode={postNode} postSEO />
         <article className="single container">
@@ -53,9 +63,6 @@ export default class PostTemplate extends Component {
                   Share
                 </a>
                 /
-                <a className="github-link" href={githubLink} target="_blank">
-                  Edit on Github ✏️
-                </a>
               </div>
               <PostTags tags={post.tags} />
             </div>
@@ -70,13 +77,6 @@ export default class PostTemplate extends Component {
               Discuss
             </a>
           </div>
-          <h3>Join the newsletter</h3>
-          <p>
-            I write about JavaScript, programming, and front-end design. Join over{' '}
-            <strong className="pink">6,000</strong> other developers in keeping up with my content.
-            Unsubscribe whenever. <u>Never any spam, ads, or affiliate links.</u>
-          </p>
-          <NewsletterForm />
         </article>
         <UserInfo config={config} />
       </Layout>
