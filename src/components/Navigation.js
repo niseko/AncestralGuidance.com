@@ -1,9 +1,8 @@
 import React, { Component } from 'react'
 import { Link } from 'gatsby'
-import floppy from '../images/floppy.png'
+import floppy from '../images/aglogo.png'
 import sun from '../images/sun.svg'
 import moon from '../images/moon.svg'
-import kofi from '../../content/thumbnails/kofi.png'
 import ThemeContext from '../context/ThemeContext'
 
 export default class Navigation extends Component {
@@ -40,7 +39,7 @@ export default class Navigation extends Component {
           <div className="brand">
             <Link to="/">
               <img src={floppy} className="favicon" alt="Floppy Diskette" />
-              <span className="text">Tania Rascia</span>
+              <span className="text">Ancestral Guidance</span>
             </Link>
           </div>
           <div className="links">
@@ -49,9 +48,6 @@ export default class Navigation extends Component {
                 {link.name}
               </Link>
             ))}
-            <a target="_blank" rel="noopener noreferrer" href="https://ko-fi.com/taniarascia">
-              <img src={kofi} alt="Kofi" className="kofi" />
-            </a>
             <div className="cta">
               <button className="dark-switcher" onClick={theme.toggleDark}>
                 {theme.dark ? (

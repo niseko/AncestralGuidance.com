@@ -1,7 +1,7 @@
 const config = {
-  siteTitle: 'Tania Rascia',
-  siteTitleShort: 'Tania Rascia',
-  siteTitleAlt: 'Tania Rascia',
+  siteTitle: 'Ancestral Guidance',
+  siteTitleShort: 'AG',
+  siteTitleAlt: 'AG',
   siteLogo: '/logos/tania.jpg',
   siteUrl: 'https://www.taniarascia.com',
   repo: 'https://github.com/taniarascia/taniarascia.com',
@@ -16,14 +16,14 @@ const config = {
   postDefaultCategoryID: 'Tech',
   userName: 'Tania',
   userEmail: 'tania@taniarascia.com',
-  userTwitter: 'taniarascia',
+  userTwitter: 'shamansag',
   userLocation: 'Chicago, IL',
   userAvatar: 'https://api.adorable.io/avatars/150/test.png',
   userDescription:
     'I build open source projects and write the missing instruction manuals of the web.',
   menuLinks: [
     {
-      name: 'Me',
+      name: 'Blog',
       link: '/me/',
     },
     {
@@ -31,7 +31,7 @@ const config = {
       link: '/blog/',
     },
     {
-      name: 'Contact',
+      name: 'About',
       link: '/contact/',
     },
   ],

@@ -1,18 +1,11 @@
 import React, { Component } from 'react'
 import { Link } from 'gatsby'
-import NewsletterForm from './NewsletterForm'
 
 export default class Contact extends Component {
   render() {
     return (
       <>
         <h1>Stay in Touch</h1>
-        <p>
-          I write about JavaScript, programming, and front-end design. Join over{' '}
-          <strong className="pink">6,000</strong> other developers in keeping up with my content.
-          Unsubscribe whenever. <u>Never any spam, ads, or affiliate links.</u>
-        </p>
-        <NewsletterForm />
         <p>You can also contact me via email or find me around the web.</p>
         <ul>
           <li>
