@@ -41,7 +41,9 @@ Your heals have a very high chance to grant the target 281 Haste and 281 Speed f
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+
 **Pro:** This is very similar to the [Void Stone](https://www.wowhead.com/item=167865/void-stone) trinket we have from Crucible of Storms, but absorbing more damage/healing. This will probably be a nice pick in some M+ dungeons or in some niche situations in raid when you need to save a person that will be taking a lot of damage in a short period of time. 
+
 
 **Con:** It’s unlikely that you’ll be able to use the entire shield, so in terms of healing this probably isn’t the essence of choice unless you need to take it.
 

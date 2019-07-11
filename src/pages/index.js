@@ -24,7 +24,7 @@ export default class Index extends Component {
         <SEO />
         <div className="container">
           <div className="lead">
-            <h2>{`Welcome to Ancestral Guidance!`}</h2>
+            <h1>{`Welcome to Ancestral Guidance!`}</h1>
             <p>
               {`A website dedicated to resto shamans`}
             </p>
