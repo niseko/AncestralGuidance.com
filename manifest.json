@@ -1,0 +1,8 @@
+{
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "static/aglogo.png": "static/aglogo-777cfe653098bb04a1772f56e92810d2.png",
+  "static/codrops.png": "static/codrops-2d7b2a1fab472ef02babd2186b76f4d8.png",
+  "static/egghead.png": "static/egghead-ccdd804c87d12f9e024c9cc532e795a3.png",
+  "static/taniawarm.jpg": "static/taniawarm-17626c3ff60a45d4967857a80e3930fe.jpg"
+}
