@@ -41,7 +41,7 @@ export default class PostTemplate extends Component {
     const twitterUrl = `https://twitter.com/search?q=${config.siteUrl}/${post.slug}/`
     const twitterShare = `http://twitter.com/share?text=${encodeURIComponent(post.title)}&url=${
       config.siteUrl
-      }/${post.slug}/&via=ancestralguidance`
+      }/${post.slug}/&via=shamansag`
     // <script>{`$WowheadPower.init()`}</script>
     return (
       <Layout>
