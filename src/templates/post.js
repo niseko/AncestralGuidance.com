@@ -10,6 +10,14 @@ import config from '../../data/SiteConfig'
 import { formatDate, editOnGithub } from '../utils/global'
 
 export default class PostTemplate extends Component {
+
+  componentDidMount() {
+    if(typeof $WowheadPower !== 'undefined'){
+      $WowheadPower.refreshLinks();
+    }
+  }
+  // onDOMChanged
+
   render() {
     const { slug } = this.props.pageContext
     const postNode = this.props.data.markdownRemark
@@ -39,17 +47,6 @@ export default class PostTemplate extends Component {
       <Layout>
         <Helmet>
           <title>{`${post.title} – ${config.siteTitle}`}</title>
-          <script>
-            {`
-              if(typeof $WowheadPower != 'undefined'){
-                $WowheadPower.refreshLinks();
-                setTimeout(function() {
-                  $WowheadPower.hideTooltip();
-                }, 1);
-                //document.getElementsByClassName("wowhead-tooltip")[0].style.visibility="hidden"
-              }
-            `}
-          </script>
         </Helmet>
         <SEO postPath={slug} postNode={postNode} postSEO />
         <article className="single container">
@@ -80,11 +77,10 @@ export default class PostTemplate extends Component {
         </article>
         <UserInfo config={config} />
       </Layout>
-    )
+    );
   }
 }
 
-/* eslint no-undef: "off" */
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
