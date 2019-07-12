@@ -1,0 +1,64 @@
+---
+author: Maeveycakes
+comments: false
+date: 2018-09-03 21:31:45+00:00
+excerpt: Learn how to take down Mythrax as a restoration shaman.
+layout: post
+link: http://ancestralguidance.com/mythrax/
+slug: mythrax
+title: Mythrax Heroic
+wordpress_id: 1677
+categories:
+- Uldir
+---
+
+# Mythic Guide
+
+
+This guide is for the Heroic version of the fight and explains the basics.
+For the the changes in Mythic difficulty, check out our Mythic guide by clicking the button below.
+
+[
+Mythic Guide
+](https://ancestralguidance.com/mythic-mythrax/)
+
+
+# PRIMARY MECHANICS
+
+
+Mythrax is a two phase encounter that revolves around managing raid wide stacks of [Annihilation](https://www.wowhead.com/spell=272336/annihilation).  While most mechanics in this fight deal smaller amounts of damage compared to other encounters, they can be very lethal when paired with high stacks of [Annihilation](https://www.wowhead.com/spell=272336/annihilation).  When any player is struck by any of Mythrax's abilities in Phase 1, they will drop some [Existence Fragment](https://www.wowhead.com/spell=272480/existence-fragment)s and gain stacks of [Annihilation](https://www.wowhead.com/spell=272336/annihilation).  You are able to reduce stacks of [Annihilation](https://www.wowhead.com/spell=272336/annihilation) by running through [Existence Fragment](https://www.wowhead.com/spell=272480/existence-fragment)s.
+
+In phase 1 of the encounter you will face Mythrax alone.  During this time, Mythrax has three abilities that affect healers, all of these abilities force your raid to be spread.
+The first of which is [Obliteration Blast](https://www.wowhead.com/spell=273554/obliteration-blast).  Mythrax will aim [Obliteration Blast](https://www.wowhead.com/spell=273554/obliteration-blast) at a random raid member and shot a massive beam at them dealing damage to anyone caught in the blast and applying stacks of [Annihilation](https://www.wowhead.com/spell=272336/annihilation) as well.
+Next is [Oblivion Sphere](https://www.wowhead.com/spell=272407/oblivion-sphere) which effectively mind controls random raid members by placing a large shadow orb on them which causes them to remain mind controlled until they are moved out of the circle.  Any damage caused to players afflicted by [Oblivion Sphere](https://www.wowhead.com/spell=272407/oblivion-sphere) will knock them away from the source of the damage.
+Lastly, [Imminent Ruin](https://www.wowhead.com/spell=272536/imminent-ruin) is a damage over time debuff that explodes at the end of the duration.  The damage of the explosion hits everyone in the raid, but is reduced the further the target with [Imminent Ruin](https://www.wowhead.com/spell=272536/imminent-ruin) is from the other raid members.
+
+Phase 2 happens when Mythrax hits 66% and 33% - this phase starts by Mythrax running to the center of the room and reducing all damage taken by 99%.  He then summons two N'raqi Destroyers and casts multiple [Oblivion Sphere](https://www.wowhead.com/spell=272407/oblivion-sphere)s, shortly after the Spheres spawn, Mythrax will rotate between Spawning Visions of Madness and casting [Obliteration Beam](https://www.wowhead.com/spell=274113/obliteration-beam).  Make sure you dodge[ Obliteration Beam](https://www.wowhead.com/spell=274113/obliteration-beam), and have your group stack on one of the N'raqi Destroyers to counter the raid damage from [Annihilation](https://www.wowhead.com/spell=272336/annihilation) and the Visions of Madness.  When Mythrax leaves this phase to go back into phase one, any adds that are still alive will still need to be dealt with.
+
+When Mythrax hits 20% health, he will cast [Essence Shatter](https://www.wowhead.com/spell=279013/essence-shatter).  This creates a tight enrage since [Annihilation](https://www.wowhead.com/spell=272336/annihilation) stacks will continue to grow at this point.
+
+
+# TALENTS
+
+
+![](http://ancestralguidance.com/wp-content/uploads/2018/09/mythraxHtalent.png)
+
+Due to the semi-spread nature of the fight, [Wellspring](https://www.wowhead.com/spell=197995/wellspring) is recommended over [High Tide](https://www.wowhead.com/spell=157154/high-tide), and [Flash Flood](https://www.wowhead.com/spell=280614/flash-flood) over [Downpour](https://www.wowhead.com/spell=207778/downpour).  If you are lacking in healing during the phase 2's of the encounter, consider swapping to [Downpour](https://www.wowhead.com/spell=207778/downpour) for more burst AoE healing.  [Ancestral Vigor](https://www.wowhead.com/spell=207401/ancestral-vigor) is almost 100% mandatory due to the maximum health reduction aspect of [Annihilation](https://www.wowhead.com/spell=272336/annihilation).
+
+
+# HEALING TIPS
+
+
+
+
+
+ 	
+  1. Line up casts of [Wellspring](https://www.wowhead.com/spell=197995/wellspring) with the explosion of [Imminent Ruin](https://www.wowhead.com/spell=272536/imminent-ruin).
+
+ 	
+  2. Try to stay positioned near the middle of the room to be able to heal ranged behind you, and melee infront of you.
+
+ 	
+  3. In the intermission phases, make sure you cast [Healing Rain](https://www.wowhead.com/spell=73920/healing-rain) on as many people as possible in between Mythrax's casts of [Obliteration Beam](https://www.wowhead.com/spell=274113/obliteration-beam).
+
+

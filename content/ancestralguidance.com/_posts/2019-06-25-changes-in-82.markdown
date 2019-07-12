@@ -1,0 +1,91 @@
+---
+author: theun
+comments: false
+date: 2019-06-25 21:35:28+00:00
+layout: post
+link: http://ancestralguidance.com/changes-in-82/
+slug: changes-in-82
+title: Changes in 8.2
+wordpress_id: 2269
+categories:
+- Raiding
+---
+
+There is a lot of new content in 8.2, and it can be a lot to digest if you skimming through the various guides. So I’d like to cover some of the changes that are relevant to us to hopefully reduce the amount of info you may need to get through the patch.
+
+		
+			
+
+# Professions
+
+		
+		
+
+It’s worth noting, every crafted piece of gear no longer requires raid materials to make, however you will need to level up a ‘bench’ to upgrade your gear that requires some raid materials. Once you upgrade this, however, you are done completely on that character and never need the materials. Crafted gear is especially important because you can reroll them quite easily to obtain ideal stats + they all come with a socket (aside from Engineering, which is a 445 Azerite Helm).
+
+**Leatherworking**: You can create both Legs and Boots as the crafted gear, both of which have a socket on them and are very cheap to make aside from the new leather.
+
+**Jewelcrafting**: Similar to before, you get a new ring to make that has a socket on it. JC is very expensive though to unlock the 440 ring, so if you don’t want to throw a bunch of gold away into one piece of gear I’d consider something else, though this is arguably the best crafted piece to make.
+
+**Alchemy**: Same as before, you can get a pretty good Trinket fairly easily and it comes with a socket. It’s reliable, so it’s a safe profession to go with.
+
+**Engineering**: This is a great helm for “Battle Shaman” as it has IP on it, however the healing traits aren’t anything to get excited about (Turn of the Tide, and generic Engineering Traits).
+
+[Further reading](https://www.wowhead.com/news=292627/profession-guides-updated-for-rise-of-azshara-patch-8-2-new-recipes-and-consumab)
+
+		
+			
+
+# Consumables
+
+		
+		
+
+## Enchants:
+
+  * New +60 stat ring enchants [ring](https://ptr.wowhead.com/item=168446/enchant-ring-accord-of-critical-strike)
+  * [Oceanic Restoration](https://ptr.wowhead.com/item=168592/enchant-weapon-oceanic-restoration) - occasionally increase Intellect by 264 for 15 seconds and restore 400 mana.
+  * [Machinist’s Brilliance](https://ptr.wowhead.com/item=168593/enchant-weapon-machinists-brilliance) (**Recommended**) - occasionally increase Intellect by 264 and Mastery, Haste, or Critical Strike by 170 for 15 seconds, your highest stat is always chosen.
+
+## Gems:
+
+  * +60 secondary stat [gem](https://ptr.wowhead.com/item=168639/deadly-lava-lazuli)
+  * +120 primary stat gems [gem](https://ptr.wowhead.com/item=168638/leviathans-eye-of-intellect)
+
+It is recommended to use a primary stat gem.
+
+## Flasks/Potions:
+
+  * +360 primary stat flasks [Flasks](https://ptr.wowhead.com/item=168652/greater-flask-of-endless-fathoms)
+  * +1215 intellect potion [Superior Battle Potion of Intellect](https://ptr.wowhead.com/item=168498/superior-battle-potion-of-intellect)
+  * [Potion of Wild Mending](https://ptr.wowhead.com/item=169300/potion-of-wild-mending) - gives your healing abilities a chance to restore an additional 5728 health to your target
+  * [Potion of Empowered Proximity](https://ptr.wowhead.com/item=168529/potion-of-empowered-proximity) - increases your primary stat by 360 for 25 seconds, and your primary stat is further increased by the number of enemies within 8 yards of you, up to a maximum of 1800 (niche),
+  * New healing potion [Healing Potion](https://ptr.wowhead.com/item=169451/abyssal-healing-potion).
+
+## Food:
+
+  * 93 secondary stat food [crit food](https://ptr.wowhead.com/item=168310/mech-dowels-big-mech)
+  * +131 primary stat feasts [feast](https://ptr.wowhead.com/item=168315/famine-evaluator-and-snack-table)
+		
+			
+
+# Catch-up Gear
+
+		
+		
+
+[Benthic gear](https://www.wowhead.com/news=291566/benthic-gear-in-rise-of-azshara-azsharan-pearling-upgrades-interesting-equips) is a new system in Nazjatar that can be bought for [Prismatic Manapearls](https://ptr.wowhead.com/currency=1721/prismatic-manapearl) or obtained via World Quests and the Questlines in Nazjatar. The gear starts at 385, but can be upgraded several times by using Manapearls, which may be quite good in the beginning weeks of the raid. Also, it’s important to note that the ‘tokens’ are BoA, so you can send the Benthic Gear between characters before you learn the piece, ultimately saving you valuable Prismatic Manapearls.
+
+		
+			
+
+# Trinket scaling
+
+		
+		
+
+This patch introduced new trinket scaling; meaning that trinkets that do healing or have absorb shields scale quicker than before. The sheet was updated to reflect this change, which shuffled up trinket rankings quite a bit; and many of the new and upcoming trinkets are added already as well! The new Azerite pieces will be coming soon as well.
+
+Be aware that everything is still subject to change until we're a few weeks into the patch.
+
+[Link to spreadsheet](https://docs.google.com/spreadsheets/d/1oVV07e0bHaoKF6mRIR_ixVaDG5n_K59w7x-Y-49PbwQ/)

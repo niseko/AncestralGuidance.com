@@ -1,0 +1,65 @@
+---
+author: Maeveycakes
+comments: false
+date: 2018-09-03 21:25:17+00:00
+excerpt: The first boss of Uldir.  Learn how to start the tier off right.
+layout: post
+link: http://ancestralguidance.com/taloc/
+slug: taloc
+title: Taloc Heroic
+wordpress_id: 1652
+categories:
+- Uldir
+---
+
+# Mythic Guide
+
+
+This guide is for the Heroic version of the fight and explains the basics.
+For the the changes in Mythic difficulty, check out our Mythic guide by clicking the button below.
+
+[
+Mythic Guide
+](https://ancestralguidance.com/mythic-taloc/)
+
+
+# PRIMARY MECHANICS
+
+
+Taloc is a three phase encounter with phase three largely resembling phase one in terms of mechanics.
+
+In phases 1 and 3, the main source of raid damage is [Cudgel of Gore](https://www.wowhead.com/spell=271296/cudgel-of-gore).  Taloc charges the active tank, and smashes his cudgel into the ground.  This deals large raid damage that falls off the further you are from the smash.  This is where you are going to want to use healing cooldowns.  There are two other mechanics that we need to be concerned with as healers.  The first of which is called [Plasma Discharge](https://www.wowhead.com/spell=271222/plasma-discharge).  Taloc picks a few raid members and gives them a debuff that causes them to drop pools of [Blood Storm](https://www.wowhead.com/spell=270290/blood-storm) - This debuff also does a moderate amount of damage over time.  Standing in [Blood Storm](https://www.wowhead.com/spell=270290/blood-storm) deals large amounts of damage as well.  Be sure to single target heal people with [Plasma Discharge](https://www.wowhead.com/spell=271222/plasma-discharge) as they will likely be running near each other and might get hit by [Blood Storm](https://www.wowhead.com/spell=270290/blood-storm) pools.
+The last mechanic is [Sanguine Static](https://www.wowhead.com/spell=272582/sanguine-static).  Taloc will pick a random raid member and shoot a few projectiles along the floor in a cone like trajectory.  The middle one will always be targeted at the selected raid member, with multiple side projectiles that deal damage on impact with players and cause a knockback.  This is easily dodged and should be, but due to how small the room is in phase 1, expect to have to heal people getting hit by this.
+
+When phase 2 begins, Taloc will power down taking reduced damage while the elevator falls into a larger room.  The entire elevator sequence of the fight is phase 2.  During this time you will have to position yourself to dodge[ Uldir Defensive Beams ](https://www.wowhead.com/spell=268245/uldir-defensive-beam)which are large lasers that are able to be seen if you are near the edge of the elevator.  During this time, Taloc will also spawn two adds, one tank add and one add that fixates random raid members.  Use tools like [Earthbind Totem](https://www.wowhead.com/spell=2484/earthbind-totem) and [Capacitor Totem ](https://www.wowhead.com/spell=192058/capacitor-totem)to inhibit Volatile Droplets from reaching raid members.  If any Volatile Droplets reach a player, the droplet will explode dealing damage to all nearby players and knock them back.
+
+After the elevator reaches the bottom floor, phase 3 begins.  Phase 3 is the exact same as phase 1 with a larger room and Volatile Droplets spawning around the room.  Continue to be vigilant about watching the targets of [Plasma Discharge](https://www.wowhead.com/spell=271222/plasma-discharge).  Avoid [Sanguine Static](https://www.wowhead.com/spell=272582/sanguine-static) and this should be an easy first boss kill.
+
+
+# TALENTS
+
+
+![](http://ancestralguidance.com/wp-content/uploads/2018/09/talocHtalent.png)
+
+For Taloc, damage comes in windows of burst.  For this reason, [Downpour](https://www.wowhead.com/spell=207778/downpour) and [Wellspring](https://www.wowhead.com/spell=197995/wellspring) are very valuable when raid damage from [Cudgel of Gore](https://www.wowhead.com/spell=271296/cudgel-of-gore) happens.  All other talent are the standard raiding talents.  Feel free to swap around level 15 and 60 talents for what you feel your raid needs most.
+
+
+# HEALING TIPS
+
+
+
+
+
+ 	
+  1. [Cudgel of Gore](https://www.wowhead.com/spell=271296/cudgel-of-gore) will charge the tank and then has a slight delay before Taloc smashes the ground.  Be sure to properly time your [Wellspring](https://www.wowhead.com/spell=197995/wellspring) and [Downpour](https://www.wowhead.com/spell=207778/downpour) casts time line up properly with incoming damage.
+
+ 	
+  2. Phase 2 has very low incoming damage, so don't be afraid to use most of your mana in phases 1 and 3 while conserving in phase 2.
+
+ 	
+  3. Manage mana well.  Matching 1% mana to 1% boss health doesn't work on Taloc due to Taloc starting at a reduced health value as well as having a long immune phase where his health won't move at all.
+
+ 	
+  4. Use [Spiritwalker's Grace](https://www.wowhead.com/spell=79206) when you are targeted with [Plasma Discharge](https://www.wowhead.com/spell=271222/plasma-discharge).
+
+

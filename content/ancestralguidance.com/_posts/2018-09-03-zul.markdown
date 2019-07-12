@@ -1,0 +1,60 @@
+---
+author: Maeveycakes
+comments: false
+date: 2018-09-03 21:30:40+00:00
+excerpt: Learn how to take down the betrayer Zul.
+layout: post
+link: http://ancestralguidance.com/zul/
+slug: zul
+title: Zul Heroic
+wordpress_id: 1674
+categories:
+- Uldir
+---
+
+# Mythic Guide
+
+
+This guide is for the Heroic version of the fight and explains the basics.
+For the the changes in Mythic difficulty, check out our Mythic guide by clicking the button below.
+
+[
+Mythic Guide
+](https://ancestralguidance.com/mythic-zul/)
+
+
+# PRIMARY MECHANICS
+
+
+Zul is an add management fight that has a few mechanics to worry about as healers.  Most of the fight you will be fighting Zul along with some forces of blood, none of which do anything significant.
+
+The main mechanics to be concerned with as a healer are [Pool of Darkness](https://www.wowhead.com/spell=273361/pool-of-darkness), [Dark Revelation](https://www.wowhead.com/spell=273365/dark-revelation), and [Shadow Barrage](https://www.wowhead.com/spell=273359/shadow-barrage).
+[Pool of Darkness](https://www.wowhead.com/spell=273361/pool-of-darkness) causes a shadowy circle to appear somewhere on Zul's platform.  If no one is standing in this pool, it will inflict damage to everyone within 45 yards, it is advised to soak these instead of trying to run over 45 yards away from these as they spawn quite frequently.  While stood in a [Pool of Darkness](https://www.wowhead.com/spell=273361/pool-of-darkness), the pool inflicts moderate damage every 2 seconds and healing this person is a priority as letting them die means risking large raid wide damage.
+[Dark Revelation](https://www.wowhead.com/spell=273365/dark-revelation) is Zul's second raid wide damaging ability.  Zul first picks two targets and afflicts them with [Dark Revelation](https://www.wowhead.com/spell=273365/dark-revelation), after 10 seconds, the [Dark Revelation](https://www.wowhead.com/spell=273365/dark-revelation) expires dealing large damage raid wide to all players.  This damage is reduced the further the player with [Dark Revelation](https://www.wowhead.com/spell=273365/dark-revelation) is from the raid members and in addition to this, minions of Zul spawn from the location that [Dark Revelation](https://www.wowhead.com/spell=273365/dark-revelation) expired.  These minions of Zul are small shadow fiends that will rush at random raid members, fearing them if the minions get too close - you can instantly kill these adds by casting [Purge ](https://www.wowhead.com/spell=370/purge)on them to remove their [Bound by Shadow](https://www.wowhead.com/spell=273432/bound-by-shadow) buff.
+The last of Zul's abilities is [Shadow Barrage](https://www.wowhead.com/spell=273359/shadow-barrage) which is a single target nuke he will spam cast on random raid members.  This cast leaves a small dot that ticks every 2 seconds for 10 seconds.
+
+Upon reaching 40% health, Zul transitions into phase 2 where he will stop spawning Forces of Blood and stop casting [Shadow Barrage](https://www.wowhead.com/spell=273359/shadow-barrage) and [Dark Revelation](https://www.wowhead.com/spell=273365/dark-revelation).  At this point, Pools of Darkness will spawn much more frequently throughout the platform, and space on the platform will begin to be restricted by the new tank mechanic, [Rupturing Blood](https://www.wowhead.com/spell=274358/rupturing-blood).  Upon phasing into phase 2, Zul will cast Locus of Corruption which applies multiples stacks of [Corrupted Blood](https://www.wowhead.com/spell=274195/corrupted-blood) to everyone in the raid, in addition he will cast [Deathwish](https://www.wowhead.com/spell=274271/deathwish) on raid members.
+[Deathwish](https://www.wowhead.com/spell=274271/deathwish) is a mind control effect that forces players to walk to the closest edge of the platform and jump off if not dispelled.  When [Deathwish](https://www.wowhead.com/spell=274271/deathwish) is dispelled, it causes raidwide damage based on how far the target is from the raid, and spawns minions of Zul.  Stay stacked as a raid during this phase to AoE heal effectively and make sure targets with [Deathwish](https://www.wowhead.com/spell=274271/deathwish) are dispelled just before they jump off the platform to reduce overall raid damage as well as saving their life.
+
+
+# TALENTS
+
+
+![](http://ancestralguidance.com/wp-content/uploads/2018/09/zulHtalent.png)
+
+Due to the nature of how [Dark Revelation](https://www.wowhead.com/spell=273365/dark-revelation) and [Deathwish](https://www.wowhead.com/spell=274271/deathwish) deal damage, [Downpour](https://www.wowhead.com/spell=207778/downpour) and [Wellspring](https://www.wowhead.com/spell=197995/wellspring) are must haves for this encounter.  The ticking damage of [Corrupted Blood](https://www.wowhead.com/spell=274195/corrupted-blood) is rather low, and thus [High Tide](https://www.wowhead.com/spell=157154/high-tide) is not recommended since there is no need for high consistant HPS.  Don't be afraid to still use [Chain Heal](https://www.wowhead.com/spell=1064/chain-heal) without [High Tide](https://www.wowhead.com/spell=157154/high-tide) selected.
+
+
+# HEALING TIPS
+
+
+
+
+
+ 	
+  1. As stated in talents, time [Downpour](https://www.wowhead.com/spell=207778/downpour) and [Wellspring](https://www.wowhead.com/spell=197995/wellspring) to land just after [Dark Revelation](https://www.wowhead.com/spell=273365/dark-revelation) or [Deathwish](https://www.wowhead.com/spell=274271/deathwish) damage events.
+
+ 	
+  2. Single target healing spells in phase one are your friends, conserve mana for phase two when everyone in your raid is taking ticking damage.
+
+

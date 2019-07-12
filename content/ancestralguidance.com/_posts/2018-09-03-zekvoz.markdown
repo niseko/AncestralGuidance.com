@@ -1,0 +1,67 @@
+---
+author: Maeveycakes
+comments: false
+date: 2018-09-03 21:28:37+00:00
+excerpt: Take a trip down memory lane of Old Gods as you learn about Zek'voz.
+layout: post
+link: http://ancestralguidance.com/zekvoz/
+slug: zekvoz
+title: Zek'voz Heroic
+wordpress_id: 1668
+categories:
+- Uldir
+---
+
+# Mythic Guide
+
+
+This guide is for the Heroic version of the fight and explains the basics.
+For the the changes in Mythic difficulty, check out our Mythic guide by clicking the button below.
+
+[
+Mythic Guide
+](https://ancestralguidance.com/mythic-zekvoz/)
+
+
+# PRIMARY MECHANICS
+
+
+Zek'voz is a three phase encounter that changes phases at 65% and 30%.  There are a few mechanics that are present in all phases of the fight.  [Titan Spark](https://www.wowhead.com/spell=264954/titan-spark) deals damage to several raid members in quick succession, the second mechanic is [Surging Darkness](https://www.wowhead.com/spell=265451/surging-darkness) which creates rings of darkness that deal large damage if players caught inside of them when they explode and anyone in the safe areas of the rings will take a small amount of damage.  The last mechanic is the tank mechanic, Might of the Void.  When a tank has two stacks of [Void Lash](https://www.wowhead.com/spell=265264/void-lash), they will be immune to healing, so don't waste casts into them.
+
+In the first phase, abilities of C'thun are able to be used by Zek'voz.  In this phase, a projection of C'thun will cast [Eye Beam](https://www.wowhead.com/spell=264382/eye-beam) on raid members, the player targeted by [Eye Beam](https://www.wowhead.com/spell=264382/eye-beam) must move it out of the raid since it will chain to nearby allies and deal increased damage for every jump.  The initial damage of this is already insanely high, and after one to two chains it will almost surely kill anyone else it chains to.  Zek'voz will also spawn Silithid Warriors that fixate on random raid members.  Use [Earthbind](https://www.wowhead.com/spell=2484/earthbind-totem) and [Capacitor Totem](https://www.wowhead.com/spell=192058/capacitor-totem) to prevent these adds from attacking raid members.
+
+Upon reaching 65%, Zek'voz will channel a new titan disc, this one being Yogg-Saron.  [Eye Beam](https://www.wowhead.com/spell=264382/eye-beam) is replaced by [Roiling Deceit](https://www.wowhead.com/spell=265360/roiling-deceit) and Silithid Warriors are replaced by Nerubian Voidweavers. [ Roiling Deceit](https://www.wowhead.com/spell=265360/roiling-deceit) targets 3 raid members and deals a high amount of damage over time to players afflicted, at the end of the debuff, an Ominous Cloud will drop where the player is standing.  Any players who walk through an Ominous Cloud will spawn a Guardian of Yogg-Saron - if one of these adds does spawn, use large raid wide damage reductions when it reaches full energy or when it is killed as it does a high amount of burst AoE damage.  Nerubian Voiceweavers are dangerous casters that need to have their [Void Bolt](https://www.wowhead.com/spell=267180/void-bolt) casts interrupted.  Use [Wind Shear](https://www.wowhead.com/spell=57994/wind-shear) to kick an add if you notice it about to finish a cast.
+
+At 30% health remaining, the last Titan Disc comes online which increases the frequency of [Titan Spark](https://www.wowhead.com/spell=264954/titan-spark) and an [Orb of Corruption](https://www.wowhead.com/spell=267334/orb-of-corruption) will spawn.  This is a large shadow orb that has a ground targeted indicator.  A player must be stood inside this indicator before the orb hits the ground to avoid large raid damage, who will then gain 100% more health, damage done, and healing done for multiple seconds before becoming mind controlled and needing to be killed off.  This is effectively the enrage timer on this fight since more Orbs of Corruption will spawn the longer this phase goes on.  It is important to note that when the orb lands on a player, the orb will travel several yards in the direction they are looking before landing again.  Shamans are good at soaking this orb since they are able to use [Reincarnation](https://www.wowhead.com/spell=20608/reincarnation) after dying to the mind control.
+
+
+# TALENTS
+
+
+![](http://ancestralguidance.com/wp-content/uploads/2018/09/zekvosHtalent.png)
+
+Due to the frequency of damage in this encounter, [High Tide](https://www.wowhead.com/spell=157154/high-tide), [Downpour](https://www.wowhead.com/spell=207778/downpour), and [Earthen Wall Totem](https://www.wowhead.com/spell=198838/earthen-wall-totem) are pretty much mandatory.  Use [Unleash Life](https://www.wowhead.com/spell=73685/unleash-life) on [Chain Heal](https://www.wowhead.com/spell=1064/chain-heal)s during periods of large raid damage.  [Echo of the Elements](https://www.wowhead.com/spell=108283/echo-of-the-elements) is mandatory due to its synergy with [Swelling Streams](https://www.wowhead.com/spell=275488/swelling-stream) and its power on this fight.  [APT](https://www.wowhead.com/spell=207399/ancestral-protection-totem) does not work on targets who are killed while mind controlled.
+
+
+# HEALING TIPS
+
+
+
+
+
+ 	
+  1. As hinted at in the talents section, save charges of [HST](https://www.wowhead.com/spell=5394/healing-stream-totem) to be used during [Surging Darkness](https://www.wowhead.com/spell=265451/surging-darkness) (this is what makes [Echo](https://www.wowhead.com/spell=108283/echo-of-the-elements) mandatory).
+
+ 	
+  2. Time [Downpour](https://www.wowhead.com/spell=207778/downpour) to hit just after [Surging Darkness](https://www.wowhead.com/spell=265451/surging-darkness) explodes.
+
+ 	
+  3. Since [Surging Darkness](https://www.wowhead.com/spell=265451/surging-darkness) cannot force you to move over one ring section away, you can safely overlap [Healing Rain](https://www.wowhead.com/spell=73920/healing-rain) between rings to make sure it gets greater effectiveness.
+
+ 	
+  4. Use [Spiritwalker's Grace](https://www.wowhead.com/spell=79206/spiritwalkers-grace) to heal on the move during [Surging Darkness](https://www.wowhead.com/spell=265451/surging-darkness).
+
+ 	
+  5. [Spirit Link Totem](https://www.wowhead.com/spell=151175/spirit-link-totem) can save a tank's life when they are affected by 2 stacks of [Void Lash](https://www.wowhead.com/spell=265264/void-lash) if needed.
+
+

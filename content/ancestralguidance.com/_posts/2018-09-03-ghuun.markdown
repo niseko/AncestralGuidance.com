@@ -1,0 +1,65 @@
+---
+author: Maeveycakes
+comments: false
+date: 2018-09-03 21:32:20+00:00
+excerpt: The final boss of Uldir.  Learn how to take on this giant worm.
+layout: post
+link: http://ancestralguidance.com/ghuun/
+slug: ghuun
+title: G'huun Heroic
+wordpress_id: 1680
+categories:
+- Uldir
+---
+
+# Mythic Guide
+
+
+This guide is for the Heroic version of the fight and explains the basics.
+For the the changes in Mythic difficulty, check out our Mythic guide by clicking the button below.
+
+[
+Mythic Guide
+](https://ancestralguidance.com/mythic-ghuun/)
+
+
+# PRIMARY MECHANICS
+
+
+G'huun is a three phase encounter with multiple encounter spaces.  In Phase 1 and 2, there are two floors to do mechanics on, the arena floor, and the upper floor.  Since the upper floor does not change between phases, let's discuss that first.
+
+On the upper floor, there are two spawn points for [Power Matrix](https://www.wowhead.com/spell=263372/power-matrix).  These [Power Matrix](https://www.wowhead.com/spell=263372/power-matrix) charge a [Reorigination Blast](https://www.wowhead.com/spell=263482/reorigination-blast) when delivered to the Reorigination Drive in the middle - each Matrix restores 35 energy to the machine.  When [Reorigination Blast](https://www.wowhead.com/spell=263482/reorigination-blast) is triggered, 5 large pulses of damage are afflicted to all players and all NPCs in the room: Stack up as a group to effectively heal through this 24 second window of massive damage.  The upper floor is covered in Amorphous Cysts that have an aura called [Undulating Mass](https://www.wowhead.com/spell=263326/undulating-mass), effectively they just slow your progress walking from one side of the upper floor to the other side.  While on this floor, players are afflicted by Unclean Contagion which deals a small amount of damage over time.  When phase 3 starts, the upper floor is no longer relevant in the fight, and you will be unable to access it without taking massive amounts of damage.
+
+The arena floor evolves over the course of all 3 phases.
+In phase 1, G'huun will be inactive in the wall in the center of the room until the first [Reorigination Blast](https://www.wowhead.com/spell=263482/reorigination-blast) is activated which causes a phase transition.  During this first phase, multiple sets of adds will spawn throughout the room in a counter clockwise fashion.  The Dark Young add casts [Dark Bargain](https://www.wowhead.com/spell=273405/dark-bargain) which is very helpful for healers since it increases healing done - look to maintain 1 stack of this as much as possible while not getting 2 stacks since that will cause you to be mind controlled.  Another add to be weary of is Blightspreader Tendril which needs to be interrupted when it casts [Decaying Eruption](https://www.wowhead.com/spell=267462/decaying-eruption), use Wind Shear on this if you think a cast will go through. [ Explosive Corruption](https://www.wowhead.com/spell=272508/explosive-corruption) is a debuff G'huun casts in all three phases of the fight on a random raid member, this deals a small amount of damage over time, but upon expiration shoots out 5 white orbs that travel across the arena floor.  Any players who come in contact with these orbs will be afflicted by [Explosive Corruption](https://www.wowhead.com/spell=272508/explosive-corruption).  If you have [Explosive Corruption](https://www.wowhead.com/spell=272508/explosive-corruption), make sure you are well away from your other raid members when it expires, or you will likely wipe your raid.
+
+After activating the first [Reorigination Blast](https://www.wowhead.com/spell=263482/reorigination-blast), G'huun will become active and start to attack tanks.  This phase maintains [Explosive Corruption](https://www.wowhead.com/spell=272508/explosive-corruption), and gains [Wave of Corruption](https://www.wowhead.com/spell=270428/wave-of-corruption) as well as [Blood Feast](https://www.wowhead.com/spell=263235/blood-feast).  [Wave of Corruption](https://www.wowhead.com/spell=270428/wave-of-corruption) forces your raid to spread to minimize stacks of [Putrid Blood](https://www.wowhead.com/spell=263227/putrid-blood) which is a substantial damage over time effect at high stacks.  After two casts of [Wave of Corruption](https://www.wowhead.com/spell=270428/wave-of-corruption), G'huun will cast [Blood Feast](https://www.wowhead.com/spell=263235/blood-feast) which targets one player and roots them in place, who will gain a small circle around them. After a few seconds, any players inside this circle will have their stacks of [Putrid Blood](https://www.wowhead.com/spell=263227/putrid-blood) consumed and a Gibbering Horror will spawn that is empowered for each stack of [Putrid Blood](https://www.wowhead.com/spell=263227/putrid-blood) consumed by [Blood Feast](https://www.wowhead.com/spell=263235/blood-feast).  The upper platforms will still be active at this point.  Try to line up [Reorigination Blast](https://www.wowhead.com/spell=263482/reorigination-blast)s with casts of [Blood Feast](https://www.wowhead.com/spell=263235/blood-feast) to allow your entire raid to stack, stay stacked, and not have to deal with killing the Gibbering Horror directly.
+
+At 20%, G'huun will transition into phase 3.  To start the phase G'huun casts [Collapse](https://www.wowhead.com/spell=276764/collapse) which causes three large brown circles to appear on the floor.  The first of these two circles targets random raid members with the third appearing in the middle of the room.  After a few second delay, a giant rock will fall from the ceiling onto these circles dealing massive damage to everyone in the raid, the further you are from these circles, the less damage you take.  The ramps to the upper floor will have extra growths spawn on them that deal large amounts of raid damage if you are stood near them.
+During this phase G'huun continues to cast [Explosive Corruption](https://www.wowhead.com/spell=272508/explosive-corruption) and [Wave of Corruption](https://www.wowhead.com/spell=270428/wave-of-corruption).  In addition he will cast [Malignant Growth](https://www.wowhead.com/spell=274577/malignant-growth) which divides the room up into multiple sections of safe space and multiple areas with mushrooms.  Stand in the areas without mushrooms and once the first set of mushrooms explode, move to the areas they were just in, as the old safe spaces are where new mushrooms will grow.  Every so often G'huun will cast [Gaze of G'huun](https://www.wowhead.com/spell=267700/gaze-of-ghuun) which fears everyone looking at him.  Drop [Tremor Totem](https://www.wowhead.com/spell=8143/tremor-totem) to counter this if you have it off cooldown, or simply don't look at G'huun.
+
+
+# TALENTS
+
+
+![](http://ancestralguidance.com/wp-content/uploads/2018/09/ghuunHtalent.png)
+
+Even though you will be spread for the majority of the fight, you will want to take [High Tide](https://www.wowhead.com/spell=157154/high-tide) and [Downpour](https://www.wowhead.com/spell=207778/downpour) to keep up with the high amounts of damage from [Reorigination Blast](https://www.wowhead.com/spell=263482/reorigination-blast) as well as [Putrid Blood](https://www.wowhead.com/spell=263227/putrid-blood).  The spread range for [Wave of Corruption](https://www.wowhead.com/spell=270428/wave-of-corruption) is only 5 yards so [Chain Heal](https://www.wowhead.com/spell=1064/chain-heal) should be very effective at every stage of this encounter.  Use [Earthen Wall Totem](https://www.wowhead.com/spell=198838/earthen-wall-totem) when you are stacking for [Blood Feast](https://www.wowhead.com/spell=263235/blood-feast), or chose [Ancestral Vigor](https://www.wowhead.com/spell=207401/ancestral-vigor) if you feel like the 10% health increase is better for your raid.  Try to save[ Healing Stream Totem](https://www.wowhead.com/spell=5394/healing-stream-totem) charges for when your raid has multiple stacks of [Putrid Blood](https://www.wowhead.com/spell=263227/putrid-blood).
+
+
+# HEALING TIPS
+
+
+
+
+
+ 	
+  1. Make sure every cast of [Chain Heal](https://www.wowhead.com/spell=1064/chain-heal) will be fully effective.  Due to the spread nature of the fight, some players might be further than they need to be.  This requires quite a bit of attention to individual positioning of raid members, but is incredibly worth it.
+
+ 	
+  2. Downpour should only be used when stacked for [Blood Feast](https://www.wowhead.com/spell=263235/blood-feast) or [Reorigination Blast](https://www.wowhead.com/spell=263482/reorigination-blast)s.
+
+ 	
+  3. [Reorigination Blast](https://www.wowhead.com/spell=263482/reorigination-blast)s are the perfect time for raid cooldowns.  Stagger them since the blast lasts 24 seconds and individually each raid cooldown lasts 8-10 seconds.
+
+

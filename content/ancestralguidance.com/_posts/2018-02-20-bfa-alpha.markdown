@@ -1,0 +1,400 @@
+---
+author: niseko
+comments: false
+date: 2018-02-20 02:23:56+00:00
+excerpt: Find out whats happening to Restoration Shamans in the upcoming expansion!
+layout: post
+link: http://ancestralguidance.com/bfa-alpha/
+slug: bfa-alpha
+title: 'Battle for Azeroth: Alpha'
+wordpress_id: 1162
+categories:
+- Legion
+---
+
+The Battle for Azeroth Alpha is now in full swing, but there still aren't many changes for Restoration Shaman. Let us look at what got changed nonetheless and what potential impact those changes could have on our playstyle.
+
+This post will be updated with every Alpha Patch - currently up to date for **Build 26530 - May 02nd**
+
+
+## **Changes from the latest Build**
+
+
+
+
+
+ 	
+  * [Echo of the Elements](https://bfa.wowhead.com/spell=108283/echo-of-the-elements) has been moved into Level 30 talents and replaces [Crashing Waves](https://bfa.wowhead.com/spell=197464/crashing-waves).
+
+ 	
+  * [Flash Flood](https://bfa.wowhead.com/spell=280614/flash-flood) is a new talent in the Level 90 talent row that reduces the cast time of your next spell after consuming a charge of Tidal Waves.
+
+ 	
+  * [Downpour](http://bfa.wowhead.com/spell=207778/downpour) no longer replaces [Healing Rain](http://www.wowhead.com/spell=73920/healing-rain)
+
+
+**If you're interested in analyzing BFA Alpha logs, i updated **[https://bfa.wowanalyzer.com/](https://bfa.wowanalyzer.com/)
+Wowhead recently added a new relevant piece: [Community Opinions Regarding the Restoration Shaman Class Changes on Alpha](http://www.wowhead.com/news=282832/battle-for-azeroth-community-opinions-class-changes-and-state-of-shamans#restoration)
+
+
+### Alpha Patches
+
+
+
+
+
+ 	
+  *  [26734 Class Changes – May 31st](https://www.mmo-champion.com/content/7643-Battle-for-Azeroth-Beta-Build-26734)
+
+ 	
+  * [26476 Class Changes – Apr 19th](https://www.mmo-champion.com/content/7534-Battle-for-Azeroth-Alpha-Build-26476)
+
+ 	
+  * [26433 Class Changes – Apr 13th](https://www.mmo-champion.com/content/7516-Battle-for-Azeroth-Alpha-Build-26433)
+
+ 	
+  * [26367 Class Changes – Apr 04th ](https://www.mmo-champion.com/threads/2388303-Battle-for-Azeroth-Alpha-Build-26367-Spell-Changes)
+
+ 	
+  * [26310 Class Changes – Mar 28th](https://www.mmo-champion.com/content/7460-Battle-for-Azeroth-Alpha-Build-26310-Battle-for-Azeroth-Alpha-Build-26310)
+
+ 	
+  * [26287 Class Changes – Mar 22th](https://www.mmo-champion.com/content/7454-Battle-for-Azeroth-Alpha-Build-26287)
+
+ 	
+  * [26231 Class Changes – Mar 15th](https://www.mmo-champion.com/content/7437-Battle-for-Azeroth-Alpha-Build-26231)
+
+ 	
+  * [26175 Class Changes – Mar 06th](https://www.mmo-champion.com/content/7427-Battle-for-Azeroth-Alpha-Build-26175)
+
+ 	
+  * [26131 Class Changes – Feb 27th](https://www.mmo-champion.com/content/7412-Battle-for-Azeroth-Alpha-Build-26131)
+
+ 	
+  * [26095 Class Changes – Feb 22nd](https://www.mmo-champion.com/content/7404-Battle-for-Azeroth-Alpha-Build-26095)
+
+ 	
+  * [26032 Class Changes – Feb 13th](https://www.mmo-champion.com/content/7394-Battle-for-Azeroth-Alpha-Build-26032)
+
+ 	
+  * [26010 Class Changes – Feb 9th](https://www.mmo-champion.com/content/7389-Battle-for-Azeroth-Alpha-Build-26010)
+
+ 	
+  * [25976 Class Changes – Feb 6th](https://www.mmo-champion.com/content/7382-Battle-for-Azeroth-Alpha-Build-25976)
+
+ 	
+  * [25902 Class Changes – Jan 25th](https://www.mmo-champion.com/content/7359-Battle-for-Azeroth-Alpha-Build-25902)
+
+
+
+
+# General Changes
+
+
+
+
+
+ 	
+  * [Lightning Surge Totem](http://www.wowhead.com/spell=192058/lightning-surge-totem) was renamed to [Capacitor Totem](http://bfa.wowhead.com/spell=192058/capacitor-totem) and is now baseline, stun duration changed from 5 to 3 seconds.
+
+ 	
+  * [Tremor Totem](http://bfa.wowhead.com/spell=8143/tremor-totem) is back, removing Fear, Charm and Sleep effects from party and raid members.
+
+ 	
+  * [Skeletal Hex](http://bfa.wowhead.com/item=159841/tome-of-hex-skeletal-hatchling) for all your hexing needs
+
+
+
+ 	
+  * [Downpour](http://bfa.wowhead.com/spell=207778/downpour) added. It replaces [Bottomless Depths](http://www.wowhead.com/spell=197467/bottomless-depths) as a talent and is basically [Gift of the Queen](http://www.wowhead.com/spell=207778/gift-of-the-queen) on a variable up to 35 second cooldown.
+
+ 	
+  * [Graceful Spirit](http://bfa.wowhead.com/spell=192088/graceful-spirit) lost the 10% [Ghost Wolf](http://bfa.wowhead.com/spell=2645/ghost-wolf) movement speed bonus.
+
+ 	
+  * [Cloudburst Totem](http://bfa.wowhead.com/spell=157153/cloudburst-totem) now replaces [Healing Stream Totem](http://bfa.wowhead.com/spell=5394/healing-stream-totem).
+
+ 	
+  * [Healing Wave](http://bfa.wowhead.com/spell=77472/healing-wave) got rebalanced to be stronger than [Healing Surge](http://bfa.wowhead.com/spell=8004/healing-surge).
+
+
+
+
+###### Ratings per 1% at 120
+
+
+
+
+
+ 	
+  * Critical Strike - 72
+
+ 	
+  * Haste - 68
+
+ 	
+  * Mastery - 24
+
+ 	
+  * Versatility - 85
+
+ 	
+  * Leech - 41.4
+
+ 	
+  * Speed - 14.4
+
+ 	
+  * Avoidance - 19.8
+
+
+The new allied races of the expansion also bring new totem designs, here are some of them!
+![](http://ancestralguidance.com/wp-content/uploads/2018/03/magharorcwatertotem-1024x340.jpg)Mag'har Orc Totems
+![](http://ancestralguidance.com/wp-content/uploads/2018/03/darkirondwarfstormtotem-1024x314.jpg)Dark Iron Dwarf Totems
+![](http://ancestralguidance.com/wp-content/uploads/2018/03/zandalaritrollalltotem-1024x351.png)Zandalari Troll Totems
+
+
+# Talents
+
+
+
+
+## Live
+
+
+![](http://ancestralguidance.com/wp-content/uploads/2018/03/live.png)
+
+
+## Alpha
+
+
+![](http://ancestralguidance.com/wp-content/uploads/2018/02/may31talentsrsham-1.png)
+
+
+
+ 	
+  * **Row 30**
+
+ 	
+    * This row was moved to Row 75
+
+ 	
+    * [Gust of Wind](http://www.wowhead.com/spell=192063/gust-of-wind) is replaced by [Nature's Guardian](http://bfa.wowhead.com/spell=30884/natures-guardian), giving you a defensive instead of mobility.
+
+ 	
+      * [Nature's Guardian](http://bfa.wowhead.com/spell=30884/natures-guardian) appears to be stronger than initially thought, with it being able to save you from oneshots. If you get hit for 50% of your HP at 40%, it will actually proc and save you.
+
+ 	
+      * It appears to not proc if you fall below 35% health, but only after you receive a hit being below 35% which probably is not intended like that.
+
+
+
+
+
+
+
+ 	
+  * **Row 45 **
+
+ 	
+    * Replacing [Lightning Surge Totem](http://www.wowhead.com/spell=192058/lightning-surge-totem) is [Static Charge](http://bfa.wowhead.com/spell=265046/static-charge) reducing the CD of the totem depending on how many targets you hit with it, so it can potentially go down to a 40 second cooldown. Stun duration got reduced from 5 to 3 seconds.
+
+ 	
+    * [Voodoo Totem](http://www.wowhead.com/spell=196932/voodoo-totem) removed, replaced by [Spirit Wolf](http://bfa.wowhead.com/spell=260878/spirit-wolf)
+
+ 	
+      * This is essentially [Ghost in the Mist](http://www.wowhead.com/spell=207351/ghost-in-the-mist) from the artifact weapon and likely will be the go-to in this row for raids, as damage reduction and movement speed are always very useful. The effect stacks up to 20% movement speed and damage reduction, and lasts until you leave the Ghost Wolf form.
+
+
+
+
+
+
+
+ 	
+  * **Row 60 **
+
+ 	
+    * This Row was moved to Row 30
+
+ 	
+    * [Crashing Waves](http://bfa.wowhead.com/spell=197464/crashing-waves) has been replaced by [Echo of the Elements](https://bfa.wowhead.com/spell=108283/echo-of-the-elements)
+
+ 	
+      * Echo has lost the 10% chance to gain a charge of riptide but now allows two charges of CBT if talented.
+
+
+
+
+ 	
+    * [Ancestral Guidance](http://www.wowhead.com/spell=108281/ancestral-guidance) is removed, replaced by [Earth Shield](http://bfa.wowhead.com/spell=974/earth-shield)
+
+ 	
+      * Ancestral Guidance was always a way stronger option than the other 2, being able to combine it with Cloudburst was a great interaction, and it buffed the weak point of the Ascendance cooldown -> the range. Seeing this gone is odd as it felt like an integral part of the toolkit, working well with just about everything and in any situation. I would have rather seen a balance of the row power wise than a straight up removal, as this combined with the Cloudburst changes it feels like a lot of depth of the class is gone.
+
+ 	
+      * Earth Shield, an old shaman ability that many welcome back with open arms. However in its current Alpha form its nothing more than another, weaker,  [Riptide](http://www.wowhead.com/spell=61295/riptide) with a minimum duration of 27 seconds (3 seconds internal cooldown on the heal) and limited to 1 target at a time. The 19th April Alpha build gave it a 10% healing bonus for you on its target, if thats enough to make it good is hard to say.
+
+ 	
+        * [Earth Shield](http://bfa.wowhead.com/spell=974/earth-shield) currently seems to affect some abilities differently, increasing [Chain Heal](http://www.wowhead.com/spell=1064/chain-heal) initial (but not the bounces) by 30%, the [Riptide](http://www.wowhead.com/spell=61295/riptide) initial by 30% but the hot by 10%. It also does not affect [HST](http://www.wowhead.com/spell=5394/healing-stream-totem) or [HTT](http://www.wowhead.com/spell=108280/healing-tide-totem) at all, which is most likely a bug. Everything else is 10%.
+
+
+
+
+
+
+
+
+
+
+ 	
+  * **Row 75 **
+
+ 	
+    * This Row was moved to Row 60
+
+ 	
+    * [Earth Shield Totem](http://www.wowhead.com/spell=198838/earthen-shield-totem) renamed to [Earth Wall Totem](http://bfa.wowhead.com/spell=198838/earthen-wall-totem)
+
+ 	
+      * I doubt this will have any gameplay changes, but i still expect that people will complain about this change.
+
+
+
+
+
+
+
+ 	
+  * **Row 90**
+
+ 	
+    * [Bottomless Depths](http://www.wowhead.com/spell=197467/bottomless-depths) removed
+
+ 	
+      * Replaced by [Downpour](http://bfa.wowhead.com/spell=207778/downpour). No, this is not the tier-set even though it has the same name, it actually is [Gift of the Queen](http://www.wowhead.com/spell=207778/gift-of-the-queen).
+
+
+
+
+ 	
+    * [Cloudburst Totem](http://bfa.wowhead.com/spell=157153/cloudburst-totem) now <del>only collects effective healing instead of all healing, also</del> replaces [HST](http://www.wowhead.com/spell=5394/healing-stream-totem) when talented
+
+ 	
+      * The 19th April build reverted this to take all healing again, the loss of [AG](http://www.wowhead.com/spell=108281/ancestral-guidance) and [HST](http://www.wowhead.com/spell=5394/healing-stream-totem) still hits it very hard and we will need raid testing to find out how viable it is.
+
+
+
+
+ 	
+    * [Flash Flood](https://bfa.wowhead.com/spell=280614/flash-flood) is a new talent that reduces the cast speed of your next healing spell by 20% after consuming a stack of [Tidal Waves](https://bfa.wowhead.com/spell=51564/tidal-waves).
+
+ 	
+      * This allows us to have [QA](https://bfa.wowhead.com/spell=207285/queen-ascendant) in a talent that is more controllable and works on all healing spell casts instead of just direct healing spells.
+
+
+
+
+
+
+
+ 	
+  * **Row 100 **
+
+ 	
+    * [Ascendance](http://www.wowhead.com/spell=114052/ascendance)
+
+ 	
+      * While this spell didn't get any changes, it will get hit hard by the removal of [Ancestral Guidance](http://www.wowhead.com/spell=108281/ancestral-guidance). What makes this spell strong in raids is especially the combination with Ancestral Guidance taking Ascendances healing and overhealing, and distributing it over 40 yards - not to mention what both those spells provide towards Cloudburst. However it will still have a great spot in dungeons.
+
+
+
+
+
+
+
+
+
+
+# The Heart of Azeroth
+
+
+Replacing the artifact weapon with traits, Netherlight Crucible and also tier sets is a new system, called the Heart of Azeroth. There is not a lot of information on it yet, and a lof of the information we do have is based on speculation. However it looks like that if you pick a trait, you can not change it.
+
+How an azerite piece looks like:
+
+![](http://ancestralguidance.com/wp-content/uploads/2018/04/azeritepiece-276x300.jpg)
+
+However some of the traits for Shaman have shown up in the alpha builds, keep in mind that all of the numbers are placeholders:
+
+
+
+ 	
+  * Restoration Shaman
+
+ 	
+    * [Astral Shift](http://bfa.wowhead.com/spell=263786/astral-shift)
+
+ 	
+    * [Serene Spirit](http://bfa.wowhead.com/spell=274823/serene-spirit)
+
+ 	
+    * [Ancestral Reach](http://bfa.wowhead.com/spell=263790/ancestral-reach)
+
+ 	
+    * [Soothing Waters](http://bfa.wowhead.com/spell=272989/soothing-waters)
+
+ 	
+    * [Embrace of the Tides](http://bfa.wowhead.com/spell=264123/embrace-of-the-tides)
+
+ 	
+    * [Healing Way](http://bfa.wowhead.com/spell=269567)
+
+ 	
+    * [Ebb and Flow](http://bfa.wowhead.com/spell=273597/ebb-and-flow)
+
+ 	
+    * [Swelling Stream](http://bfa.wowhead.com/spell=275488/swelling-stream)
+
+
+
+
+ 	
+  * General
+
+ 	
+    * [Woundbinder](http://bfa.wowhead.com/spell=267880/woundbinder)
+
+ 	
+    * [Resounding Protection](http://bfa.wowhead.com/spell=263962/resounding-protection)
+
+ 	
+    * [Volcanic Lightning](http://bfa.wowhead.com/spell=272978/volcanic-lightning)
+
+ 	
+    * [Champion of Azeroth](http://bfa.wowhead.com/spell=270583/champion-of-azeroth)
+
+
+
+
+
+[Azerite Piece](http://bfa.wowhead.com/item=159903/mail-of-the-champion?azerite-powers=7) - Example Azerite piece, click on it to open the calculator
+
+Overall the changes feel unbalanced, taking away a lot of power and depth but not adding anything in as replacements. Keep in mind that a lot of our current interesting stuff is in the artifact, which haven't made it into the alpha (yet?), such as
+
+
+
+ 	
+  * <del>[Gift of the Queen](http://www.wowhead.com/spell=207778/gift-of-the-queen)</del> - Got added as a talent under the name of [Downpour](http://bfa.wowhead.com/spell=207778/downpour) on April 19th
+
+ 	
+  * [Cumulative Upkeep](http://www.wowhead.com/spell=207362/cumulative-upkeep)
+
+ 	
+  * <del>[Queen Ascendant](https://www.wowhead.com/spell=207285/queen-ascendant)</del> - The talent [Flash Flood](https://bfa.wowhead.com/spell=280614/flash-flood) replaces QA as a talent on May 31st.
+
+ 	
+  * [Sense of Urgency](http://www.wowhead.com/spell=207355/sense-of-urgency)
+
+
+Obviously power has always be compared to other classes, and i don't doubt that they can tune us in a way where the throughput is not lacking, however my concerns are that we could feel bland and lose a lot of possible min-maxing.Mastery is still another concern, being severely behind the other stats in power even even when you weight low-health healing higher, the issue is mostly the linear scaling - a possible fix for this could be to have it start off stronger at higher HP levels but be the same as its currently is at 0% HP.

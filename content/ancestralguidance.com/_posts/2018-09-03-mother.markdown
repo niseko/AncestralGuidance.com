@@ -1,0 +1,63 @@
+---
+author: Maeveycakes
+comments: false
+date: 2018-09-03 21:26:39+00:00
+excerpt: Everyone's favorite MOTHER.  Learn how to defeat her!
+layout: post
+link: http://ancestralguidance.com/mother/
+slug: mother
+title: MOTHER Heroic
+wordpress_id: 1660
+categories:
+- Uldir
+---
+
+# Mythic Guide
+
+
+This guide is for the Heroic version of the fight and explains the basics.
+For the the changes in Mythic difficulty, check out our Mythic guide by clicking the button below.
+
+[
+Mythic Guide
+](https://ancestralguidance.com/mythic-mother)
+
+
+# PRIMARY MECHANICS
+
+
+MOTHER is a one phase fight that evolves over the course of the encounter.
+
+The encounter area is made up of three rooms separated by a [Defense Grid](https://www.wowhead.com/spell=267821/defense-grid), and passing through them inflicts raid wide damage while spawning an Remnant of Corruption after 3 seconds.  These Remnants cast [Clinging Corruption](https://www.wowhead.com/spell=268198/clinging-corruption) that must be interrupted, if they are not, be prepared to use a large healing cooldown.
+
+While in the first room MOTHER has restricted access to her abilities.  The first set of abilities MOTHER will always use in combination with each other, [Wind Tunnel](https://www.wowhead.com/spell=267878/wind-tunnel) creates a massive wind effect that pushes players to one side of the room chosen seemingly randomly.  At the same time, [Purifying Flame](https://www.wowhead.com/spell=267795/purifying-flame)s will activate on the side of the room that the [Wind Tunnel](https://www.wowhead.com/spell=267878/wind-tunnel) is pushing players towards.  Standing in [Purifying Flame](https://www.wowhead.com/spell=267795/purifying-flame)s deals large amounts of damage.  Run against the [Wind Tunnel](https://www.wowhead.com/spell=267878/wind-tunnel) to avoid taking this damage.  MOTHER will occasionally cast Cleansing Purge while [Wind Tunnel](https://www.wowhead.com/spell=267878/wind-tunnel) is active.
+
+When MOTHER is moved into the second room, she gains the ability to activate [Uldir Defensive Beam](https://www.wowhead.com/spell=268245/uldir-defensive-beam).  This causes lasers to move across the entire room in one of two patterns: Either the beams are vertical beams and come from the walls and have a small gap for players to avoid them, or the beams are horizontal beams that descend from the ceiling; In the latter case, safe spaces will glow on the floor in a line where there is no laser present.  In either case, avoid taking damage from the lasers as you will likely die if you do not avoid them.
+
+Upon entering the third room, MOTHER will be afflicted by Depleted Energy causing her to take 100% more damage.  This phase is all about burning the boss and will have no more raid damage present from the [Defense Grid](https://www.wowhead.com/spell=267821/defense-grid) - DPS as much as possible while making sure your tanks stay alive.
+
+
+# TALENTS
+
+
+![](http://ancestralguidance.com/wp-content/uploads/2018/09/motherHtalents.png)
+
+The only considerations for talent swaps are in tier 15 and 90.  Since the final phase is consistently tank healing, [Undulation](https://www.wowhead.com/spell=200071/undulation) could be useful for that portion of the fight, [Unleash Life](https://www.wowhead.com/spell=73685/unleash-life) is very strong with [High Tide](https://www.wowhead.com/spell=157154) and that's why it is our default talent choice.  In the 90 tier for talents, [Flash Flood](https://www.wowhead.com/spell=280614/flash-flood) is a possibility if you find you are weaving a lot of single target heals in between your [Chain Heal](https://www.wowhead.com/spell=231780)s.
+
+
+# HEALING TIPS
+
+
+
+
+
+ 	
+  1. While unable to directly target people on the other side of [Defense Grid](https://www.wowhead.com/spell=267821/defense-grid), [Chain Heal](https://www.wowhead.com/spell=231780/chain-heal) is able to bounce through the [Defense Grid](https://www.wowhead.com/spell=267821/defense-grid) to heal players on the other side.
+
+ 	
+  2. Be prepared to use raid cooldowns when you have multiple people passing through the [Defense Grid](https://www.wowhead.com/spell=267821/defense-grid) at the same time.
+
+ 	
+  3. Use [Wind Shear](https://www.wowhead.com/spell=57994/wind-shear) and [Capacitor Totem](https://www.wowhead.com/spell=192058/capacitor-totem) on Remnants of Corruption to interrupt their casts of [Clinging Corruption](https://www.wowhead.com/spell=268198/clinging-corruption').
+
+

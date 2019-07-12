@@ -1,0 +1,62 @@
+---
+author: Maeveycakes
+comments: false
+date: 2018-09-03 21:29:33+00:00
+excerpt: Learn how to keep your allies blood inside of them, and not inside Vectis!
+layout: post
+link: http://ancestralguidance.com/vectis/
+slug: vectis
+title: Vectis Heroic
+wordpress_id: 1671
+categories:
+- Uldir
+---
+
+# Mythic Guide
+
+
+This guide is for the Heroic version of the fight and explains the basics.
+For the the changes in Mythic difficulty, check out our Mythic guide by clicking the button below.
+
+[
+Mythic Guide
+](https://ancestralguidance.com/mythic-vectis)
+
+
+# PRIMARY MECHANICS
+
+
+Vectis is a cyclic two phase fight that has one main mechanic that is applied at the start of the fight called [Omega Vector](https://www.wowhead.com/spell=265129/omega-vector).  [Omega vector](https://www.wowhead.com/spell=265129/omega-vector) is a debuff that deals shadow damage over time and upon expiration will jump to the closest ally, that, when it jumps, leaves a stack of [Lingering Infection](https://www.wowhead.com/spell=265127/lingering-infection), which increases nature damage taken by 5% per stack.
+
+Phase 1 of the fight happens when Vectis is attackable.  During this time he casts [Contagion](https://www.wowhead.com/spell=267242/contagion) which deals nature damage to all players.  Due to the nature of [Omega Vector](https://www.wowhead.com/spell=265129/omega-vector) and [Lingering Infection](https://www.wowhead.com/spell=265127/lingering-infection), the impact of this ability increases over the course of the fight.  Vectis will also cast [Gestate](https://www.wowhead.com/spell=265212/gestate) on a random player dealing shadow damage to them as well as any players nearby and stuns the primary target for 5 seconds.  After the stun wears off, a Plague Amalgam will spawn, which only cast one ability, [Immunosuppression](https://www.wowhead.com/spell=265206/immunosuppression).  [Immunosuppression](https://www.wowhead.com/spell=265206/immunosuppression) debuffs every raid member with a significant healing absorb that stacks if it isn't removed before the next cast.  Dealing with [Immunosuppression](https://www.wowhead.com/spell=265206/immunosuppression) is important to avoid a raid member having a large healing absorb when they are in danger of dying, use large healing cooldowns when [Immunosuppression](https://www.wowhead.com/spell=265206/immunosuppression) lines up with [Contagion](https://www.wowhead.com/spell=267242/contagion).
+
+In Phase 2, Vectis becomes untargetable and becomes a pool of blood.  Any players who come in contact with the pool of blood will gain a stack of [Lingering Infection](https://www.wowhead.com/spell=265127/lingering-infection).  During this time, Vectis will cast [Blood Geyser](https://www.wowhead.com/spell=265370/blood-geyser) which are beams of blood that shoot out from the blood pool and deal shadow damage upon impact with any players.  These [Blood Geysers](https://www.wowhead.com/spell=265370/blood-geyser) also apply stacks of[ Lingering Infection](https://www.wowhead.com/spell=265127/lingering-infection).  The other mechanic in this phase is [Plague Bomb](https://www.wowhead.com/spell=266948/plague-bomb) which causes multiple circles to spawn around the room.  These circles must be soaked by one person and just one person.  If any circle goes unsoaked, a Plague Amalgam will spawn which adds to the number of [Immunosuppression](https://www.wowhead.com/spell=265206/immunosuppression) casts.  You only want one player to soak each of these[ Plague bomb](https://www.wowhead.com/spell=266948/plague-bomb)s as the damage does not split.  The goal of this phase is to avoid getting hit by [Blood Geysers](https://www.wowhead.com/spell=265370/blood-geyser) while effectively soaking [Plague Bomb](https://www.wowhead.com/spell=266948/plague-bomb)s as a raid.
+
+
+# TALENTS
+
+
+![](http://ancestralguidance.com/wp-content/uploads/2018/09/vectisHtalent.png)
+
+Due to the cast frequency of [Contagion](https://www.wowhead.com/spell=267242/contagion) and [Immunosuppression](https://www.wowhead.com/spell=265206/immunosuppression), [Downpour](https://www.wowhead.com/spell=207778/downpour) and [High Tide](https://www.wowhead.com/spell=157154/high-tide) are quite strong.
+
+
+# HEALING TIPS
+
+
+
+
+
+ 	
+  1. Use [Downpour](https://www.wowhead.com/spell=207778/downpour) on stacks of players after [Immuno](https://www.wowhead.com/spell=265206/immunosuppression) and [Contagion](https://www.wowhead.com/spell=267242/contagion) casts.
+
+ 	
+  2. Keep [Healing Rain](https://www.wowhead.com/spell=73920) on stacks of players when they are afflicted by [Immuno](https://www.wowhead.com/spell=265206/immunosuppression).
+
+ 	
+  3. Consider saving charges of [HST](https://www.wowhead.com/spell=5394/healing-stream-totem) for [Immuno](https://www.wowhead.com/spell=265206/immunosuppression) casts.
+
+ 	
+  4. Rotate healing cooldowns liberally when you have [Immuno](https://www.wowhead.com/spell=265206/immunosuppression) debuffs out on the raid and the boss is casting [Contagion](https://www.wowhead.com/spell=267242/contagion).
+
+
