@@ -1,9 +1,9 @@
 {
-  "name": "taniarascia.com",
-  "description": "Personal website running on Gatsby, React, and Node.js.",
+  "name": "ancestralguidance.com",
+  "description": "Community website running on Gatsby, React, and Node.js.",
   "version": "1.0.1",
-  "author": "Tania Rascia <tania@taniarascia.com>",
-  "repository": "git@github.com:taniarascia/taniarascia.com",
+  "author": "Joscha Rentz",
+  "repository": "git@github.com:niseko/AncestralGuidance.com",
   "dependencies": {
     "gatsby": "^2.13.13",
     "gatsby-image": "^2.2.4",
@@ -59,11 +59,11 @@
     "write-good": "^1.0.1"
   },
   "keywords": [
-    "tania rascia",
-    "development",
-    "dev",
+    "ancestral guidance",
+    "restoration shaman",
+    "guide",
     "tutorials",
-    "tech",
+    "theorycrafting",
     "articles",
     "blog"
   ],

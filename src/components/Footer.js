@@ -12,7 +12,7 @@ export default class Footer extends Component {
           Twitter
         </a>
         <a
-          href="https://github.com/taniarascia/taniarascia.com"
+          href="https://github.com/niseko/AncestralGuidance.com"
           target="_blank"
           rel="noopener noreferrer"
         >

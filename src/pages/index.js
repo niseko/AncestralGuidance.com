@@ -4,12 +4,9 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../layout'
 import PostListing from '../components/PostListing'
 import ProjectListing from '../components/ProjectListing'
-import SimpleListing from '../components/SimpleListing'
 import SEO from '../components/SEO'
 import config from '../../data/SiteConfig'
 import projects from '../../data/projects'
-import speaking from '../../data/speaking'
-import podcasts from '../../data/podcasts'
 
 export default class Index extends Component {
   render() {
@@ -55,28 +52,13 @@ export default class Index extends Component {
           </section>
 
           <section className="section">
-            <h2>Open Source Projects</h2>
-            <ProjectListing projects={projects} />
-          </section>
-
-          <section className="section">
-            <h2>Podcasts</h2>
-            <SimpleListing simple data={podcasts} />
-          </section>
-
-          <section className="section">
-            <h2>Speaking</h2>
-            <SimpleListing simple data={speaking} />
-          </section>
-
-          <section className="section">
             <h2>{`Other People's Opinions`}</h2>
             <div className="quotations">
               <blockquote className="quotation">
                 <p>
                   {`“It's no exaggeration to say that I
                 wouldn't currently have a job in development without this site. So thanks for
-                ruining my life, Tania.”`}
+                ruining my life.”`}
                 </p>
                 <cite>— Craig</cite>
               </blockquote>

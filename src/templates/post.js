@@ -33,23 +33,23 @@ export default class PostTemplate extends Component {
     const twitterUrl = `https://twitter.com/search?q=${config.siteUrl}/${post.slug}/`
     const twitterShare = `http://twitter.com/share?text=${encodeURIComponent(post.title)}&url=${
       config.siteUrl
-    }/${post.slug}/&via=taniarascia`
+      }/${post.slug}/&via=ancestralguidance`
     // <script>{`$WowheadPower.init()`}</script>
     return (
       <Layout>
         <Helmet>
           <title>{`${post.title} – ${config.siteTitle}`}</title>
-          <script>{`
-                
-                    // update tooltips
-                    if(typeof $WowheadPower == 'undefined'){
-                      $.getScript('//wow.zamimg.com/widgets/power.js');
-                    } else {
-                      $WowheadPower.refreshLinks();
-                    }
-                
-              `}
-              </script>
+          <script>
+            {`
+              if(typeof $WowheadPower != 'undefined'){
+                $WowheadPower.refreshLinks();
+                setTimeout(function() {
+                  $WowheadPower.hideTooltip();
+                }, 1);
+                //document.getElementsByClassName("wowhead-tooltip")[0].style.visibility="hidden"
+              }
+            `}
+          </script>
         </Helmet>
         <SEO postPath={slug} postNode={postNode} postSEO />
         <article className="single container">

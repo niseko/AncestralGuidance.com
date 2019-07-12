@@ -3,28 +3,25 @@ const config = {
   siteTitleShort: 'AG',
   siteTitleAlt: 'AG',
   siteLogo: '/logos/tania.jpg',
-  siteUrl: 'https://www.taniarascia.com',
-  repo: 'https://github.com/taniarascia/taniarascia.com',
+  siteUrl: 'https://ancestralguidance.com',
+  repo: 'https://github.com/niseko/AncestralGuidance.com',
   pathPrefix: '',
   dateFromFormat: 'YYYY-MM-DD',
   dateFormat: 'MMMM Do, YYYY',
-  siteDescription:
-    'Tania Rascia is full-stack software developer specializing in modern JavaScript who breaks down complex concepts in an accessible and intuitive way.',
+  siteDescription: 'Guides and Tutorials around Restoration Shamans in World of Warcraft',
   siteRss: '/rss.xml',
-  googleAnalyticsID: 'UA-42068444-1',
-  disqusShortname: 'taniarascia',
-  postDefaultCategoryID: 'Tech',
-  userName: 'Tania',
-  userEmail: 'tania@taniarascia.com',
+  googleAnalyticsID: 'UA-111570807-1',
+  postDefaultCategoryID: 'Games',
+  userName: 'niseko',
+  userEmail: 'TODO',
   userTwitter: 'shamansag',
   userLocation: 'Chicago, IL',
   userAvatar: 'https://api.adorable.io/avatars/150/test.png',
-  userDescription:
-    'I build open source projects and write the missing instruction manuals of the web.',
+  userDescription: 'TODO.',
   menuLinks: [
     {
       name: 'Blog',
-      link: '/me/',
+      link: '/',
     },
     {
       name: 'Articles',
@@ -32,7 +29,7 @@ const config = {
     },
     {
       name: 'About',
-      link: '/contact/',
+      link: '/',
     },
   ],
   themeColor: '#3F80FF', // Used for setting manifest and progress theme colors.
