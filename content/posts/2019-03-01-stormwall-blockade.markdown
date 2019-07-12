@@ -1,6 +1,7 @@
 ---
 author: Maeveycakes
 comments: false
+template: post
 date: 2019-03-01 15:37:56+00:00
 excerpt: Learn how to defeat Stormwall Blockade as a Restoration Shaman.
 layout: post
@@ -12,10 +13,7 @@ categories:
 - Boss Guides
 ---
 
-# Fight Mechanics
-
-		
-		
+## Fight Mechanics
 
 Stormwall Blockade is a two phase fight in which you start by fighting Sister Katherine and Brother Joseph.  Regardless of which boat you start on, you will have to deal with both the Sister and the Brother, just in different orders.  
 
@@ -39,34 +37,20 @@ Once Sister Katherine and Brother Joseph are defeated, you are able to take Tran
 
 On Mythic, the ghosts of Sister Katherine and Brother Joseph appear periodically rotating between the two of them.  Sister Katherine will start by casting [Jolting Volley](https://www.wowhead.com/spell=287169/jolting-volley), then [Voltaic Flash](https://www.wowhead.com/spell=284262/voltaic-flash).  Brother Joseph will cast [Tidal Volley](https://www.wowhead.com/spell=284316/tidal-volley) followed by [Sea's Temptation](https://www.wowhead.com/spell=284383/seas-temptation).  Generally it isn't worth moving for [Voltaic Flash](https://www.wowhead.com/spell=284262/voltaic-flash) in this phase as you can just use cooldowns to live through the damage as the rest of the phase has a very low healing requirement.
 
-		
-			
 
-# Suggested Talents
+## Suggested Talents
 
-		
-										![](http://ancestralguidance.com/wp-content/uploads/2019/02/Champion.png)											
-		
+![](http://ancestralguidance.com/wp-content/uploads/2019/02/Champion.png)
 
 The only talent that is recommended to change is [EWT](https://www.wowhead.com/spell=198838/earthen-wall-totem) over to [AV](https://www.wowhead.com/spell=207401/ancestral-vigor) or [APT](https://www.wowhead.com/spell=207399/ancestral-protection-totem).  All three talents excel on this fight and there is no clear "best" choice.
 
-		
-			
 
-# Notable Azerite Traits
+## Notable Azerite Traits
 
-		
-		
 
 [Spouting Spirits](https://www.wowhead.com/spell=279504/spouting-spirits) is a very good choice on this fight as the first phase of the fight is on a very small platform where everyone is forced to be stacked.  Also on Mythic, when you are dealing with the [Voltaic Flash](https://www.wowhead.com/spell=284262/voltaic-flash) in Phase 2, a [Spouting Spirits](https://www.wowhead.com/spell=279504/spouting-spirits) [SLT](https://www.wowhead.com/spell=98008/spirit-link-totem) can cover most of the healing required.
 
-		
-			
-
-# Healing Tips
-
-		
-		
+## Healing Tips
 
   * Use your mana liberally in Phase 1, it is by far the most healing intensive and you can channel a mana potion easily at the start of Phase 2.
   * Use cooldowns early and often in Phase 1, they will come back up late in Phase 2 when they are needed.

@@ -10,6 +10,7 @@ title: Azerite Traits
 wordpress_id: 1583
 categories:
 - General
+template: post
 ---
 
 # Outer Ring Traits
