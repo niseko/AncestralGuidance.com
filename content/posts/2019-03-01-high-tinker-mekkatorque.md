@@ -1,15 +1,13 @@
 ---
 author: Maeveycakes
-comments: false
 date: 2019-03-01 15:36:21+00:00
 excerpt: Learn how to defeat High Tinker Mekkatorque as a Restoration Shaman.
 template: post
 link: http://ancestralguidance.com/high-tinker-mekkatorque/
 slug: high-tinker-mekkatorque
 title: High Tinker Mekkatorque
-wordpress_id: 2100
 categories:
-- Boss Guides
+- Battle of Dazar'alor
 ---
 
 # Fight Mechanics

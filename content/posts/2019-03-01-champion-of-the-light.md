@@ -1,15 +1,13 @@
 ---
 author: Maeveycakes
-comments: false
 date: 2019-03-01 15:30:16+00:00
 excerpt: Learn how to defeat Champion of the Light as a Restoration Shaman.
 template: post
 link: http://ancestralguidance.com/champion-of-the-light/
 slug: champion-of-the-light
 title: Champion of the Light
-wordpress_id: 2088
 categories:
-- Boss Guides
+- Battle of Dazar'alor
 ---
 
 # Fight Mechanics

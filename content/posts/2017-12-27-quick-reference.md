@@ -1,6 +1,5 @@
 ---
 author: niseko
-comments: false
 date: 2017-12-27 17:01:47+00:00
 excerpt: Overview over everything you need to know as a Restoration Shaman in Battle
   for Azeroth!
@@ -8,9 +7,7 @@ template: post
 link: http://ancestralguidance.com/quick-reference/
 slug: quick-reference
 title: Quick Reference and FAQ
-wordpress_id: 874
 categories:
-- General
 - Raiding
 ---
 

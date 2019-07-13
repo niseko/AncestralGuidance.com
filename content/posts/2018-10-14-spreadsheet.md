@@ -1,6 +1,5 @@
 ---
 author: Lytheia
-comments: false
 date: 2018-10-14 01:30:35+00:00
 excerpt: A guide to using the restoration shaman spreadsheet to evaluate azerite traits,
   trinkets and enchants.

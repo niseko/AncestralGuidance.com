@@ -6,8 +6,7 @@ template: post
 thumbnail: '../thumbnails/wp.png'
 categories:
   - Popular
-tags:
-  - raiding
+  - General
 ---
 
 

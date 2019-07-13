@@ -1,15 +1,12 @@
 ---
 author: Lytheia
-comments: false
 date: 2018-04-16 01:19:10+00:00
 excerpt: Learn how and when to push your damage during a boss encounter.
 template: post
 link: http://ancestralguidance.com/dpsing-as-a-healer/
 slug: dpsing-as-a-healer
 title: DPSing as a Healer
-wordpress_id: 1382
 categories:
-- General
 - Raiding
 ---
 

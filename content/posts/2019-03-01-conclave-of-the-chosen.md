@@ -1,15 +1,13 @@
 ---
 author: Maeveycakes
-comments: false
 date: 2019-03-01 15:34:32+00:00
 excerpt: Learn how to defeat Conclave of the Chosen as a Restoration Shaman.
 template: post
 link: http://ancestralguidance.com/conclave-of-the-chosen/
 slug: conclave-of-the-chosen
 title: Conclave of the Chosen
-wordpress_id: 2096
 categories:
-- Boss Guides
+- Battle of Dazar'alor
 ---
 
 # Fight Mechanics

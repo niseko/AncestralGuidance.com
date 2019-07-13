@@ -1,13 +1,11 @@
 ---
 author: Maeveycakes
-comments: false
 date: 2018-07-14 20:30:20+00:00
 excerpt: Find out what's happening to Restoration Shamans in the Battle for Azeroth!
 template: post
 link: http://ancestralguidance.com/changes-in-bfa/
 slug: changes-in-bfa
 title: Changes from Legion to BFA
-wordpress_id: 1457
 categories:
 - General
 ---

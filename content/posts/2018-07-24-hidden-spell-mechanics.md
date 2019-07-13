@@ -1,6 +1,5 @@
 ---
 author: Maeveycakes
-comments: false
 date: 2018-07-24 21:03:40+00:00
 excerpt: Learn about the hidden spell mechanics of Chain Heal, Wellspring, and Earth
   Shield.
@@ -8,7 +7,6 @@ template: post
 link: http://ancestralguidance.com/hidden-spell-mechanics/
 slug: hidden-spell-mechanics
 title: Hidden Spell Mechanics
-wordpress_id: 1540
 categories:
 - General
 ---

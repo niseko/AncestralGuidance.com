@@ -1,13 +1,11 @@
 ---
 author: Maeveycakes
-comments: false
 date: 2019-03-01 15:37:56+00:00
 excerpt: Learn how to defeat Stormwall Blockade as a Restoration Shaman.
 template: post
 link: http://ancestralguidance.com/stormwall-blockade/
 slug: stormwall-blockade
 title: Stormwall Blockade
-wordpress_id: 2102
 categories:
 - Boss Guides
 ---

@@ -1,6 +1,5 @@
 ---
 author: Maeveycakes
-comments: false
 date: 2017-12-21 18:03:43+00:00
 excerpt: Optimal set up of healing cooldowns can be the difference between a kill
   and a wipe. Let's check out how to properly set them up here!
@@ -8,7 +7,6 @@ template: post
 link: http://ancestralguidance.com/assigning-healing-cooldowns/
 slug: assigning-healing-cooldowns
 title: Assigning Healing Cooldowns
-wordpress_id: 322
 categories:
 - General
 ---

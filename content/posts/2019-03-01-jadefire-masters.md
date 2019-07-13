@@ -1,15 +1,13 @@
 ---
 author: Maeveycakes
-comments: false
 date: 2019-03-01 15:32:42+00:00
 excerpt: Learn how to defeat Jadefire Masters as a Restoration Shaman.
 template: post
 link: http://ancestralguidance.com/jadefire-masters/
 slug: jadefire-masters
 title: Jadefire Masters
-wordpress_id: 2092
 categories:
-- Boss Guides
+- Battle of Dazar'alor
 ---
 
 # Fight Mechanics

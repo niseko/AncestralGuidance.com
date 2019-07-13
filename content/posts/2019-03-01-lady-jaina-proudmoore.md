@@ -1,15 +1,13 @@
 ---
 author: Maeveycakes
-comments: false
 date: 2019-03-01 15:38:29+00:00
 excerpt: Learn how to defeat Lady Jaina Proudmoore as a Restoration Shaman.
 template: post
 link: http://ancestralguidance.com/lady-jaina-proudmoore/
 slug: lady-jaina-proudmoore
 title: Lady Jaina Proudmoore
-wordpress_id: 2104
 categories:
-- Boss Guides
+- Battle of Dazar'alor
 ---
 
 # Fight Mechanics

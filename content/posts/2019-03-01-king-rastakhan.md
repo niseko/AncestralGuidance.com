@@ -1,15 +1,13 @@
 ---
 author: Maeveycakes
-comments: false
 date: 2019-03-01 15:35:52+00:00
 excerpt: Learn how to defeat King Rastakhan as a Restoration Shaman.
 template: post
 link: http://ancestralguidance.com/king-rastakhan/
 slug: king-rastakhan
 title: King Rastakhan
-wordpress_id: 2098
 categories:
-- Boss Guides
+- Battle of Dazar'alor
 ---
 
 # Fight Mechanics
