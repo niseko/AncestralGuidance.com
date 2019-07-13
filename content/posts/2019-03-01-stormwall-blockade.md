@@ -37,7 +37,7 @@ On Mythic, the ghosts of Sister Katherine and Brother Joseph appear periodically
 
 ## Suggested Talents
 
-![](http://ancestralguidance.com/wp-content/uploads/2019/02/Champion.png)
+![](../images/raids/Champion.png)
 
 The only talent that is recommended to change is [EWT](https://www.wowhead.com/spell=198838/earthen-wall-totem) over to [AV](https://www.wowhead.com/spell=207401/ancestral-vigor) or [APT](https://www.wowhead.com/spell=207399/ancestral-protection-totem).  All three talents excel on this fight and there is no clear "best" choice.
 
