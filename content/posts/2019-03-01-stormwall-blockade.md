@@ -7,7 +7,7 @@ link: http://ancestralguidance.com/stormwall-blockade/
 slug: stormwall-blockade
 title: Stormwall Blockade
 categories:
-- Boss Guides
+- Battle of Dazar'alor
 ---
 
 ## Fight Mechanics
