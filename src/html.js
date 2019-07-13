@@ -11,8 +11,6 @@ export default function HTML(props) {
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
-        <script>{`var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};`}</script>
-        <script src="https://wow.zamimg.com/widgets/power.js" />
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>
