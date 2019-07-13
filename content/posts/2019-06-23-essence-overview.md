@@ -5,7 +5,6 @@ template: post
 thumbnail: '../thumbnails/wp.png'
 slug: essence-overview
 categories:
-  - JavaScript
   - Popular
 tags:
   - raiding

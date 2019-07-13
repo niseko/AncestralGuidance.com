@@ -1,7 +1,6 @@
 ---
 author: Maeveycakes
 comments: false
-template: post
 date: 2019-03-01 15:37:56+00:00
 excerpt: Learn how to defeat Stormwall Blockade as a Restoration Shaman.
 template: post
