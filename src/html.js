@@ -12,7 +12,7 @@ export default function HTML(props) {
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
         {props.headComponents}
-        <script>{`var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};`}</script>
+        <script>{`var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true, iconSize: true};`}</script>
         <script src="https://wow.zamimg.com/widgets/power.js" />
       </head>
       <body {...props.bodyAttributes}>
