@@ -12,9 +12,6 @@ categories:
 
 # Fight Mechanics
 
-		
-		
-
 Jaina is a three phase encounter with two intermissions.  In Phase 1, you will be fighting Jaina on a boat where as a healer you are tasked with dispelling anyone who is afflicted by [Grasp of Frost](https://www.wowhead.com/spell=287626/grasp-of-frost) and [Ring of Ice](https://www.wowhead.com/spell=285459/ring-of-ice) if people do not preposition themselves in the [fire](https://www.wowhead.com/spell=287365/searing-pitch) around the room.  Try to avoid getting hit by [Freezing Blast](https://www.wowhead.com/spell=285177/freezing-blast), take [Avalanche](https://www.wowhead.com/spell=287565/avalanche) out of the raid, and avoid getting hit by [Bombard](https://www.wowhead.com/spell=285828/bombard).  
 
 When Jaina reaches 60% health remaining, she will transition into the first intermission where she causes the ship to crash into an iceberg and the fight continues by following her onto the iceberg.  Jaina casts [Howling Winds](https://www.wowhead.com/spell=289861/howling-winds) which restricts vision of her and will stop when interrupted.  On Mythic difficulty, Jaina also summons 5 clones of herself that cast [Howling Winds](https://www.wowhead.com/spell=289861/howling-winds) which need to be interrupted and killed before you can interrupt Jaina.  Dodge the [Blistering Tornado](https://www.wowhead.com/spell=288534/blistering-tornado)es and [Glacial Shards](https://www.wowhead.com/spell=288325/glacial-shards).  Use Wind Rush Totem as you jump off the boat to increase the speed at which your raid runs and completes this phase to reduce the overall number of stacks of [Chilling Touch](https://www.wowhead.com/spell=285212/chilling-touch) applied.
@@ -27,46 +24,27 @@ Phase 3 is identical to Phase 2 except Jaina will now cast a few abilities in ad
 
 On Mythic difficulty there are a few fight altering changes, the first of which is [Gathering Blizzard](https://www.wowhead.com/spell=289379/gathering-blizzard).  As the power of the blizzard increases, you will need to stand near more raid members to prevent being [Frozen Solid](https://www.wowhead.com/spell=287490/frozen-solid).  In addition, when the blizzard reaches maximum power, the raid will rapidly gain stacks of [Chilling Touch](https://www.wowhead.com/spell=285212/chilling-touch).  The second change is the previously mention Icebound Images in the first intermission.  The final change is Jaina's Tide Elemental gaining [Splitting Frost](https://www.wowhead.com/spell=290087/splitting-frost) which causes two smaller Tide Elementals to spawn upon the first Tide Elementals death.  These smaller Tide Elementals do not split further.  It is recommended that you ignore dealing damage to the Tide Elemental on Mythic.
 
-		
-			
-
 # Suggested Talents
 
-		
-										![](http://ancestralguidance.com/wp-content/uploads/2019/03/jainanew.png)											
-		
+![Jaina Talents](../images/raids/jainanew.png)
 
 Talents on this fight can vary depending on what type of healing you lack.  [EWT](https://www.wowhead.com/spell=198838/earthen-wall-totem) can be used if you have trouble progressing through Phase 2, but [APT](https://www.wowhead.com/spell=207399) is strongly recommended for Phase 3 as you will likely want to sacrifice tanks often to prevent them from being [Frozen Solid](https://www.wowhead.com/spell=287490/frozen-solid).  
 
-		
-			
-
 # Notable Azerite Traits
-
-		
-		
 
 Due to the stacked up nature of the fight and the ever-present damage due to [Chilling Touch](https://www.wowhead.com/spell=285212/chilling-touch), [Overflowing Shores](https://www.wowhead.com/spell=278095/overflowing-shores) and [Spouting Spirits](https://www.wowhead.com/spell=279504/spouting-spirits) are massive gains to overall healing throughput.  in Mythic, prioritize 3 [Spouting Spirits](https://www.wowhead.com/spell=279504/spouting-spirits) traits over everything else even if it means dropping upwards of 15 ilvls on an azerite piece as the trait carries in the final phase when you are burning the boss and [Chilling Touch](https://www.wowhead.com/spell=285212/chilling-touch) stacks creep up towards 20.
 
-		
-			
-
 # Healing Tips / Other Notes
 
-		
-		
+* Phase 1 is incredibly low on damage, so look to have 95%+ mana coming out of it.
+* While your raid is breaking out Nathanos, use a channeled mana potion.
+* Phase 2 and Phase 3 are all about stacked up healing.  Use [HR](https://www.wowhead.com/spell=73920/healing-rain) as often as possible and CH when [Chilling Touch](https://www.wowhead.com/spell=285212/chilling-touch) stacks get to 8+.
+* Use [Purify Spirit](https://www.wowhead.com/spell=77130/purify-spirit).  There are many roots in the fight to dispel.  Sometimes if you don't dispel fast enough, you can cause someone to die because they are stuck in a mechanic.
+* There are no "magic stats" for this encounter.  Literally every stat is good and useful as you will be using your entire toolkit to counteract the massive amounts of damage decimating your raid.
 
-  * Phase 1 is incredibly low on damage, so look to have 95%+ mana coming out of it.
-  * While your raid is breaking out Nathanos, use a channeled mana potion.
-  * Phase 2 and Phase 3 are all about stacked up healing.  Use [HR](https://www.wowhead.com/spell=73920/healing-rain) as often as possible and CH when [Chilling Touch](https://www.wowhead.com/spell=285212/chilling-touch) stacks get to 8+.
-  * Use [Purify Spirit](https://www.wowhead.com/spell=77130/purify-spirit).  There are many roots in the fight to dispel.  Sometimes if you don't dispel fast enough, you can cause someone to die because they are stuck in a mechanic.
-  * There are no "magic stats" for this encounter.  Literally every stat is good and useful as you will be using your entire toolkit to counteract the massive amounts of damage decimating your raid.
+**WARNING**: The following is only for people's guilds insist on having a Restoration Shaman DPS for extra raid cooldowns.  We do **NOT **recommend this strategy, but since we know this strategy is actively being used, here is a guide to the non-traditional build.
 
-** **
-
-**WARNING**: The following is only for people's guilds insist on having a Restoration Shaman DPS for extra raid cooldowns.  We do **NOT **recommend this strategy, but since we know this strategy is actively being used, here is a guide to the non-traditional build. 
-
-  * Stack 3 [Igneous Potential](https://www.wowhead.com/spell=279829/igneous-potential) traits, while trying to also get as many [Spouting Spirits](https://www.wowhead.com/spell=279504/spouting-spirits) traits as possible.  
-  * Stack versatility and haste gear to maximize DPS while still providing decent healing throughput.  
-  * Simply keep [Flame Shock](https://www.wowhead.com/spell=188838/flame-shock) up on the boss, and cast [Lava Burst](https://www.wowhead.com/spell=51505/lava-burst) while using [Lightning Bolt](https://www.wowhead.com/spell=403/lightning-bolt) as a filler.
-  * Remember, you are spec'd into Restoration, use your healer utility to help dispelling as well as healing if needed.
+* Stack 3 [Igneous Potential](https://www.wowhead.com/spell=279829/igneous-potential) traits, while trying to also get as many [Spouting Spirits](https://www.wowhead.com/spell=279504/spouting-spirits) traits as possible.  
+* Stack versatility and haste gear to maximize DPS while still providing decent healing throughput.  
+* Simply keep [Flame Shock](https://www.wowhead.com/spell=188838/flame-shock) up on the boss, and cast [Lava Burst](https://www.wowhead.com/spell=51505/lava-burst) while using [Lightning Bolt](https://www.wowhead.com/spell=403/lightning-bolt) as a filler.
+* Remember, you are spec'd into Restoration, use your healer utility to help dispelling as well as healing if needed.

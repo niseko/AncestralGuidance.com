@@ -9,7 +9,6 @@ categories:
   - General
 ---
 
-
 # Restoration Shaman and Essences for the Heart of Azeroth
 
 Essences are a new system coming in 8.2 that allow you to use 1 Major/Minor Essence, and 2 additional Minor Essences. These can be changed like Talents, and are meant to be changed with the content you are doing to make the most use out of them. With 8.2 right around the corner I thought I’d try to do a quick write-up of what we thought about the new Essences while testing them. 
@@ -17,7 +16,6 @@ Essences are a new system coming in 8.2 that allow you to use 1 Major/Minor Esse
 I’ll give a quick description of what each Essence does, give some Pros and Cons for each, where and how easy they are to obtain, and try to explain situations where each of them would be useful. Keep in mind, this is from the PTR and things could still change (there were changes as recent as the day before writing this) and I’d imagine numbers tuning may not be final until the start of Mythic. Also, at the bottom I’ll try to list which Major/Minor powers from each Essence will be useful for us in most scenarios.
 
 >This is NOT a BIS list.  Consider the pros and cons of each essence to determine which to use for now.
-
 
 ### [Artifice of Time](https://ptr.wowhead.com/spell=299506/artifice-of-time)
 
@@ -33,16 +31,15 @@ I’ll give a quick description of what each Essence does, give some Pros and Co
 Your heals have a very high chance to grant the target 281 Haste and 281 Speed for 8 seconds.
 ```
 
-**Pro:** This is very similar to the [Void Stone](https://www.wowhead.com/item=167865/void-stone) trinket we have from Crucible of Storms, but absorbing more damage/healing. This will probably be a nice pick in some M+ dungeons or in some niche situations in raid when you need to save a person that will be taking a lot of damage in a short period of time. 
-
+**Pro:** This is very similar to the [Void Stone](https://www.wowhead.com/item=167865/void-stone) trinket we have from Crucible of Storms, but absorbing more damage/healing. This will probably be a nice pick in some M+ dungeons or in some niche situations in raid when you need to save a person that will be taking a lot of damage in a short period of time.
 
 **Con:** It’s unlikely that you’ll be able to use the entire shield, so in terms of healing this probably isn’t the essence of choice unless you need to take it.
 
 **Location:** PvP and Honor Achievements
 
-  * Rank 1: Win a PvP Island, an Epic BG, and a normal BG
-  * Rank 2: Gain 15,000 honor from PvP
-  * Rank 3: Gain 50,000 honor from PvP
+* Rank 1: Win a PvP Island, an Epic BG, and a normal BG
+* Rank 2: Gain 15,000 honor from PvP
+* Rank 3: Gain 50,000 honor from PvP
 
 _Note:_ Unlike [Void Stone](https://www.wowhead.com/item=167865/void-stone), you do want to heal into this.  This isn't a shared healing / damage absorb, it is a delay of damage / healing.  If you do not heal into this, whoever you use it on may die from the damage caused when [Standstill](https://ptr.wowhead.com/spell=296094/standstill) expires.
 
@@ -66,9 +63,9 @@ Gives us the PvP talent [Ancestral Gift](https://www.wowhead.com/spell=290254/a
 
 **Location:** PvP and Weekly War Chest
 
-  * Rank 1: Open a PvP War Chest
-  * Rank 2: Reach 1000 PvP Rating and open a PvP War Chest
-  * Rank 3: Combine items gathered from the weekly PvP War Chest
+* Rank 1: Open a PvP War Chest
+* Rank 2: Reach 1000 PvP Rating and open a PvP War Chest
+* Rank 3: Combine items gathered from the weekly PvP War Chest
 
 ### [Life-Binder’s Invocation](https://ptr.wowhead.com/spell=293032/life-binders-invocation)
 
@@ -90,9 +87,9 @@ Gives us the PvP talent [Ancestral Gift](https://www.wowhead.com/spell=290254/a
 
 **Location:** Mythic+ dungeons and Weekly Cache
 
-  * Rank 1: Complete a +4 dungeon in Season 3
-  * Rank 2: Complete a +7 dungeon in Season 3
-  * Rank 3: Combine 15 items gathered from the weekly Mythic+ Cache
+* Rank 1: Complete a +4 dungeon in Season 3
+* Rank 2: Complete a +7 dungeon in Season 3
+* Rank 3: Combine 15 items gathered from the weekly Mythic+ Cache
 
 ### [Memory of Lucid Dreams](https://ptr.wowhead.com/spell=299372/memory-of-lucid-dreams)
 
@@ -114,9 +111,9 @@ Gives us the PvP talent [Ancestral Gift](https://www.wowhead.com/spell=290254/a
 
 **Location:** New Follower system in Nazjatar
 
-  * Rank 1: Get one follower to level 3
-  * Rank 2: Get 3000 xp combined between all the followers
-  * Rank 3: Get 6000 xp combined between all the followers
+* Rank 1: Get one follower to level 3
+* Rank 2: Get 3000 xp combined between all the followers
+* Rank 3: Get 6000 xp combined between all the followers
 
 ### [Ripple in Space](https://ptr.wowhead.com/spell=302982/ripple-in-space)
 
@@ -138,9 +135,9 @@ Your movement speed is increased by 5% and when you move more than 25 yards with
 
 **Location:** Warmode (World PvP)
 
-  * Rank 1: Kill 25 players of the opposite faction in Nazjatar
-  * Rank 2: Achievement: Fighting on Two Fronts (warmode activities)
-  * Rank 3: Complete the Call to Arms Weekly quests
+* Rank 1: Kill 25 players of the opposite faction in Nazjatar
+* Rank 2: Achievement: Fighting on Two Fronts (warmode activities)
+* Rank 3: Complete the Call to Arms Weekly quests
 
 ### [The Crucible of Flame](https://ptr.wowhead.com/spell=299353/concentrated-flame)
 
@@ -162,9 +159,9 @@ Your movement speed is increased by 5% and when you move more than 25 yards with
 
 **Location:** Artifact Power
 
-  * Rank 1: New intro quest with Magni
-  * Rank 2: Reach AP level 54
-  * Rank 3: Reach AP level 58
+* Rank 1: New intro quest with Magni
+* Rank 2: Reach AP level 54
+* Rank 3: Reach AP level 58
 
 ### [The Ever-Rising Tide](https://ptr.wowhead.com/spell=299875/overcharge-mana)
 
@@ -184,11 +181,11 @@ Your movement speed is increased by 5% and when you move more than 25 yards with
 
 **Con:** Your mana regen is halted during the 8sec windows, so this will probably be the most mana-intensive Essence there is, but if used correctly could create a very fun playstyle.
 
-**Location:** Nazjatar Reputation 
+**Location:** Nazjatar Reputation
 
-  * Rank 1: Ankoan/Unshackled - Honored, cost 10 Prismatic Manapearl
-  * Rank 2: Ankoan/Unshackled - Revered, cost 25 Prismatic Manapearl
-  * Rank 3: Ankoan/Unshackled - Exalted, cost 50 Prismatic Manapearl
+* Rank 1: Ankoan/Unshackled - Honored, cost 10 Prismatic Manapearl
+* Rank 2: Ankoan/Unshackled - Revered, cost 25 Prismatic Manapearl
+* Rank 3: Ankoan/Unshackled - Exalted, cost 50 Prismatic Manapearl
 
 _Note: _The healing % stacks only proc off spells that cost mana. The maximum duration of the healing increase is 16 seconds.
 
@@ -212,9 +209,9 @@ _Note: _The healing % stacks only proc off spells that cost mana. The maximum d
 
 **Location:** Mechagon Reputation 
 
-  * Rank 1: Rustbolt - Honored, cost S.P.A.R.E. Crates and Galvanic Oscillators
-  * Rank 2: Rustbolt - Revered, cost S.P.A.R.E. Crates and Galvanic Oscillators
-  * Rank 3: Rustbolt - Exalted, cost S.P.A.R.E. Crates and Galvanic Oscillators
+* Rank 1: Rustbolt - Honored, cost S.P.A.R.E. Crates and Galvanic Oscillators
+* Rank 2: Rustbolt - Revered, cost S.P.A.R.E. Crates and Galvanic Oscillators
+* Rank 3: Rustbolt - Exalted, cost S.P.A.R.E. Crates and Galvanic Oscillators
 
 ### [Vision of Perfection](https://ptr.wowhead.com/spell=297869/vision-of-perfection)
 
@@ -236,9 +233,9 @@ Reduces the cooldown of Healing Tide Totem by 13% and increases your Versatility
 
 **Location:** Operation: Mechagon (new dungeon) 
 
-  * Rank 1: Kill King Mechagon
-  * Rank 2: Loot the pattern from King Mechagon and learn/use it
-  * Rank 3: Requires 4 Progression Sprockets from King Mechagon
+* Rank 1: Kill King Mechagon
+* Rank 2: Loot the pattern from King Mechagon and learn/use it
+* Rank 3: Requires 4 Progression Sprockets from King Mechagon
 
 ### [Vitality Conduit](https://ptr.wowhead.com/spell=299954/vitality-conduit)
 
@@ -258,11 +255,11 @@ Reduces the cooldown of Healing Tide Totem by 13% and increases your Versatility
 
 **Con:** This is a life-steal, and especially during progression that is something to always be wary of. It does steal from the highest health player, which is nice, but probably won’t be good enough as a major to be worth using. 
 
-**Location:** Raiding 
+**Location:** Raiding
 
-  * Rank 1: Cost 9 Aqueous Reliquary, from Radiance of Azshara, Queen’s Court, and Queen Azshara
-  * Rank 2: Cost 18 Aqueous Reliquary, from Radiance of Azshara, Queen’s Court, and Queen Azshara
-  * Rank 3: Cost 27 Aqueous Reliquary, from Radiance of Azshara, Queen’s Court, and Queen Azshara
+* Rank 1: Cost 9 Aqueous Reliquary, from Radiance of Azshara, Queen’s Court, and Queen Azshara
+* Rank 2: Cost 18 Aqueous Reliquary, from Radiance of Azshara, Queen’s Court, and Queen Azshara
+* Rank 3: Cost 27 Aqueous Reliquary, from Radiance of Azshara, Queen’s Court, and Queen Azshara
 
 _Note_: The major is not a channel that you have to hold, but rather behaves like a buff.
 
@@ -286,16 +283,16 @@ _Note_: The major is not a channel that you have to hold, but rather behaves lik
 
 **Location:** Island Expeditions
 
-  * Rank 1: Complete your weekly Island Expedition quest (map)
-  * Rank 2: Collect 15 Fragments of Zem’lan’s Lost Treasure Map from Islands + complete the mission that follows
-  * Rank 3: Recruit a Captain follower, and complete the mission that follows
+* Rank 1: Complete your weekly Island Expedition quest (map)
+* Rank 2: Collect 15 Fragments of Zem’lan’s Lost Treasure Map from Islands + complete the mission that follows
+* Rank 3: Recruit a Captain follower, and complete the mission that follows
 
 ### Essences to Obtain (TLDR)
 
-You’ll eventually want to unlock all of the Essences and all of their Ranks, as they can be useful in many different types of content and will most likely be with us for the rest of the expansion. Because they’re just now coming out, if you have limited time you should try to aim for _at least_ these Essences, as they’re (probably) the best ones to have early on. 
+You’ll eventually want to unlock all of the Essences and all of their Ranks, as they can be useful in many different types of content and will most likely be with us for the rest of the expansion. Because they’re just now coming out, if you have limited time you should try to aim for _at least_ these Essences, as they’re (probably) the best ones to have early on.
 
-  * **Life-Binder’s Invocation**
-  * **Memory of Lucid Dreams**
-  * **The Ever-Rising Tide**
-  * **Vision of Perfection**
-  * **The Well of Existence**
+* **Life-Binder’s Invocation**
+* **Memory of Lucid Dreams**
+* **The Ever-Rising Tide**
+* **Vision of Perfection**
+* **The Well of Existence**
