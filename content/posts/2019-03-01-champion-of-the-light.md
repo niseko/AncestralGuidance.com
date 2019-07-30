@@ -19,7 +19,7 @@ While Champion of the Light is the first encounter in Battle of Dazar'alor, ther
 # Suggested Talents
 
 
-![](http://ancestralguidance.com/wp-content/uploads/2019/02/Champion.png)
+![](../images/raids/Champion.png)
 
 Due to the constant raid damage present during most off the encounter [EWT](https://www.wowhead.com/spell=198838/earthen-wall-totem) and [HT](https://www.wowhead.com/spell=157154/high-tide) are recommended.  You could drop [CBT](https://www.wowhead.com/spell=157153/cloudburst-totem) in favor of [Downpour](https://www.wowhead.com/spell=207778/downpour) as they will perform similarly throughput wise, but [CBT](https://www.wowhead.com/spell=157153/cloudburst-totem) is one less global and slightly more efficient mana-wise.  You could consider using [Ascendance](https://www.wowhead.com/spell=114052/ascendance) if you want to go full burst healing mode, but it's not recommended unless your co-healers are fine using their cooldowns to supplement your lack of healing outside of [Ascendance](https://www.wowhead.com/spell=114052/ascendance).
 

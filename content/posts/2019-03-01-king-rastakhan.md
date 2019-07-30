@@ -25,7 +25,7 @@ Once Bwonsomdi reaches 50% health remaining, the death realm group is sent back 
 # Suggested Talents
 
 
-![](http://ancestralguidance.com/wp-content/uploads/2019/02/Champion.png)
+![](../images/raids/Champion.png)
 
 In the scenario you are not sent down to the death realm, swap [EWT](https://www.wowhead.com/spell=198838/earthen-wall-totem) over to [AV](https://www.wowhead.com/spell=207401/ancestral-vigor).  If your group decides to do the cheese barrier [Death's Door](https://www.wowhead.com/spell=288449/deaths-door) strategy, consider swapping Graceful Spirit over to [WRT](https://www.wowhead.com/spell=192077/wind-rush-totem) if you are the healer going down to the death realm to prevent people from mass triggering [Withering Burst](https://www.wowhead.com/spell=288053/withering-burst) when Bwonsomdi casts [Inevitable End](https://www.wowhead.com/spell=287333/inevitable-end).
 

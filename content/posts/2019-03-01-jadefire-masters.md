@@ -19,7 +19,7 @@ Jadefire masters is relatively easy when it comes to the healing requirement it 
 # Suggested Talents
 
 
-![](http://ancestralguidance.com/wp-content/uploads/2019/02/Jadefire.png)
+![](../images/raids/Jadefire.png)
 
 You could consider taking [Ascendance](https://www.wowhead.com/spell=114052/ascendance) over [HT](https://www.wowhead.com/spell=157154/high-tide) since this fight has no real sustained damage until the bosses reach 100 energy which is at the very end of the fight.
 

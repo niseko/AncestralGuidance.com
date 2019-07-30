@@ -38,9 +38,9 @@ The Data that's most useful are progress kills as they usually involve you tryin
 
 Now that you have a log selected, visit [WoWAnalyzer](https://wowanalyzer.com/) and paste your combatlog URL into the box. For help using WoWAnalyzer, please visit the [Wowhead Guide.](https://www.wowhead.com/how-to-use-wowanalyzer) Scroll to the bottom of the page to the Details section and select the Player Log Data heading. Copy and paste these values into the Player Information box in Main Page tab of the spreadsheet, using the topmost orange cell.
 
-![Select Player Log Data Tab](http://ancestralguidance.com/wp-content/uploads/2019/03/selectPlayerLogData.png)
-![Select and Copy the values](http://ancestralguidance.com/wp-content/uploads/2019/03/selectData.jpg)
-![Paste it in the topmost orange cell](http://ancestralguidance.com/wp-content/uploads/2018/10/pasteInBlueBox.png)
+![Select Player Log Data Tab](../images/selectPlayerLogData.png)
+![Select and Copy the values](../images/selectData.jpg)
+![Paste it in the topmost orange cell](../images/pasteInBlueBox.png)
 
 
 ## Step 3: The results
