@@ -11,7 +11,7 @@ categories:
 
 # Restoration Shaman and Essences for the Heart of Azeroth
 
-Essences are a new system coming in 8.2 that allow you to use 1 Major/Minor Essence, and 2 additional Minor Essences. These can be changed like Talents, and are meant to be changed with the content you are doing to make the most use out of them. With 8.2 right around the corner I thought I’d try to do a quick write-up of what we thought about the new Essences while testing them. 
+Essences are a new system coming in 8.2 that allow you to use 1 Major/Minor Essence, and 2 additional Minor Essences. These can be changed like Talents, and are meant to be changed with the content you are doing to make the most use out of them. With 8.2 right around the corner I thought I’d try to do a quick write-up of what we thought about the new Essences while testing them.
 
 I’ll give a quick description of what each Essence does, give some Pros and Cons for each, where and how easy they are to obtain, and try to explain situations where each of them would be useful. Keep in mind, this is from the PTR and things could still change (there were changes as recent as the day before writing this) and I’d imagine numbers tuning may not be final until the start of Mythic. Also, at the bottom I’ll try to list which Major/Minor powers from each Essence will be useful for us in most scenarios.
 
@@ -21,13 +21,13 @@ I’ll give a quick description of what each Essence does, give some Pros and Co
 
 <div class="filename">Major</div>
 
-```
+```json
 (3 minute CD) Creates a time vortex around a player absorbing 331,288 damage and healing 6 seconds. When this expires, the absorbed damage and healing is delivered over 10 seconds and the damage is reduced by 20%.
 ```
 
 <div class="filename">Minor</div>
 
-```
+```json
 Your heals have a very high chance to grant the target 281 Haste and 281 Speed for 8 seconds.
 ```
 
@@ -47,15 +47,17 @@ _Note:_ Unlike [Void Stone](https://www.wowhead.com/item=167865/void-stone), yo
 
 <div class="filename">Major</div>
 
-```
-Gives us the PvP talent [Ancestral Gift](https://www.wowhead.com/spell=290254/ancestral-gift) (Cannot be silenced for 5 seconds after activating Spiritwalker’s Grace) and while you are stunned the defensive benefit from Strife (minor power) is doubled. Dispelling, interrupting, or applying cc also grants a stack of Strife.
+```json
+Gives us the PvP talent Ancestral Gift (Cannot be silenced for 5 seconds after activating Spiritwalker’s Grace) and while you are stunned the defensive benefit from Strife (minor power) is doubled. Dispelling, interrupting, or applying cc also grants a stack of Strife.
 ```
 
 <div class="filename">Minor</div>
 
-```
+```json
 (10 ppm, 3sec ICD) Your spells and abilities have a chance to increase your Versatility for 14 seconds, stacking up to 8 times. Getting cc’d also gains a stack of Strife.
 ```
+
+[Ancestral Gift](https://www.wowhead.com/spell=290254/ancestral-gift)
 
 **Pro:** I can’t think of anything honestly, I’d rather just get silenced and not use up an essence spot. The Minor is decent, and may be good enough to fill up a minor slot, but there are also some other decent minors. It has a high ppm, which means you should (in theory) be able to reliably maintain high-ish stacks of the Versatility buff.
 
@@ -71,15 +73,17 @@ Gives us the PvP talent [Ancestral Gift](https://www.wowhead.com/spell=290254/a
 
 <div class="filename">Major</div>
 
-```
-(2.5 minute CD) Implant 40 [Seeds of Eonar](https://ptr.wowhead.com/spell=296211/seed-of-eonar) (Heals for 199 every 0.9 seconds, if the target takes damage the Seed bursts, healing them for 4132) divided over all allies within 30 yards. Seeds that expire unused reduce the cooldown of this ability by 2 seconds.
+```json
+(2.5 minute CD) Implant 40 Seeds of Eonar. (Heals for 199 every 0.9 seconds, if the target takes damage the Seed bursts, healing them for 4132) divided over all allies within 30 yards. Seeds that expire unused reduce the cooldown of this ability by 2 seconds.
 ```
 
 <div class="filename">Minor</div>
 
+```json
+(15 ppm) Your heals have a very high chance to implant a Seed of Eonar in the target for 15 seconds.
 ```
-(15 ppm) Your heals have a very high chance to implant a [Seed of Eonar](https://ptr.wowhead.com/spell=296211/seed-of-eonar) in the target for 15 seconds.
-```
+
+[Seeds of Eonar](https://ptr.wowhead.com/spell=296211/seed-of-eonar)
 
 **Pro:** This is a fairly weak 2.5 minute CD that can be used just to give your raid extra raid CD’s to use during high damage parts of fights. The HoT portion of the Seeds are quite low so the power of this essence comes with raidwide aoe damage so that the seeds burst, doing more healing.
 
@@ -95,19 +99,19 @@ Gives us the PvP talent [Ancestral Gift](https://www.wowhead.com/spell=290254/a
 
 <div class="filename">Major</div>
 
-```
+```json
 (3 minute CD) Use the Heart of Azeroth, increasing your Mana generation rate by 100% and your Leech by 623 for 12 seconds.
 ```
 
 <div class="filename">Minor</div>
 
-```
+```json
 (2.4 ppm + Haste) Your spells and abilities have a chance to refund 50% of the Mana spent on them, healing you for 11,956 and increasing your Versatility by 502 for 8 seconds.
 ```
 
-**Pro:** The on-use gives 800 mana every second and with that and the use of the minor can restore quite a large amount of mana over the course of a fight. 
+**Pro:** The on-use gives 800 mana every second and with that and the use of the minor can restore quite a large amount of mana over the course of a fight.
 
-**Con:** This Essence only becomes really good if you’re going to make use of the extra mana you are getting. If you use this but end the fight at 50% mana then you could have easily taken another Essence that does healing and been more beneficial to the group. 
+**Con:** This Essence only becomes really good if you’re going to make use of the extra mana you are getting. If you use this but end the fight at 50% mana then you could have easily taken another Essence that does healing and been more beneficial to the group.
 
 **Location:** New Follower system in Nazjatar
 
@@ -119,13 +123,13 @@ Gives us the PvP talent [Ancestral Gift](https://www.wowhead.com/spell=290254/a
 
 <div class="filename">Major</div>
 
-```
+```json
 (1 minute CD) Creates an Azerite beacon at a target location and after 2 seconds you will relocate to that beacon and deal 13,758 Fire damage to all nearby enemies. For 10 seconds after teleporting you take 10% reduced damage.
 ```
 
 <div class="filename">Minor</div>
 
-```
+```json
 Your movement speed is increased by 5% and when you move more than 25 yards within 4 seconds, you gain 540 Intellect for 20 seconds (can only occur every 30 seconds)
 ```
 
@@ -143,19 +147,19 @@ Your movement speed is increased by 5% and when you move more than 25 yards with
 
 <div class="filename">Major</div>
 
-```
+```json
 (30 second recharge) Blasts the target with a ball of concentrated flame, dealing 10,329 Fire damage to an enemy of healing an ally for 10,329, then burn the target for an additional 75% of the damage or healing over 6 seconds. Each cast of Concentrated Flame deals 100% increased damage or healing. This bonus resets after every third cast. (2 charges)
 ```
 
 <div class="filename">Minor</div>
 
-```
+```json
 (3 ppm + haste) Your spells and abilities have a chance to cauterize your target for 7150 Fire damage over 10 seconds or healing an ally for 7150 over 10 seconds, stacking up to 3 times.
 ```
 
 **Pro:** It has a short CD and the initial healing of it feeds [CBT](https://www.wowhead.com/spell=157153/cloudburst-totem). The minor also is okay, however there are better ones out there.
 
-**Con:** It just doesn’t seem to do enough healing to be worth using up your Major slot for so if this is used it will likely be used as a minor power. 
+**Con:** It just doesn’t seem to do enough healing to be worth using up your Major slot for so if this is used it will likely be used as a minor power.
 
 **Location:** Artifact Power
 
@@ -167,13 +171,13 @@ Your movement speed is increased by 5% and when you move more than 25 yards with
 
 <div class="filename">Major</div>
 
-```
+```json
 (30 second CD) Overcharge your mana for 8 seconds, causing each spell you cast to increase your healing by 4%, stacking. While overcharged, your mana regeneration is halted, and you gain 10% haste.
 ```
 
 <div class="filename">Minor</div>
 
-```
+```json
 (1.75 ppm) Your heals have a chance to grant either 1,306 Intellect for 10 seconds or 2,520 mana. Chance of receiving mana increases with your missing mana. 20% chance to gain both effects.
 ```
 
@@ -193,13 +197,13 @@ _Note: _The healing % stacks only proc off spells that cost mana. The maximum d
 
 <div class="filename">Major</div>
 
-```
+```json
 (15 second CD) Release all healing stored in the Well of Existence into an ally. This healing is amplified by 50%. The Well will not release more healing than needed to fully heal the target.
 ```
 
 <div class="filename">Minor</div>
 
-```
+```json
 15% of your overhealing is stored in the Well of Existence. When you heal a target under 50% health, the Well releases up to 5,184 of its stored healing into them. When the Well contains less than 13,252 healing, it absorbs healing twice as quickly.
 ```
 
@@ -207,7 +211,7 @@ _Note: _The healing % stacks only proc off spells that cost mana. The maximum d
 
 **Con:** This only stores Overhealing, which isn’t something that you want to _try_ to do and is generally bad as it’s just wasted mana. I don’t believe the Major is strong enough to warrant using over some of the other Essences.
 
-**Location:** Mechagon Reputation 
+**Location:** Mechagon Reputation
 
 * Rank 1: Rustbolt - Honored, cost S.P.A.R.E. Crates and Galvanic Oscillators
 * Rank 2: Rustbolt - Revered, cost S.P.A.R.E. Crates and Galvanic Oscillators
@@ -217,21 +221,21 @@ _Note: _The healing % stacks only proc off spells that cost mana. The maximum d
 
 <div class="filename">Major</div>
 
-```
+```json
 Your spells and abilities have a chance to activate Healing Tide Totem for 35% of its base duration. When the Vision of Perfection activates, you and up to 2 other nearby allies gain 107 Haste for 10 seconds.
 ```
 
 <div class="filename">Minor</div>
 
-```
+```json
 Reduces the cooldown of Healing Tide Totem by 13% and increases your Versatility by 45. When you activate Healing Tide Totem, immediately heal for 5% of maximum health.
 ```
 
 **Pro:** On some fights where there always needs to be healing (Jaina P3, Uu’nat P3, etc) the Major could be nice as it is our Major CD being activated, which means free healing. The minor power could be quite nice to have, especially if you can fit in an extra HTT during a fight.
 
-**Con:** [Healing Tide](https://www.wowhead.com/spell=108280/healing-tide-totem) is arguably one of the worst Healing CD’s unless it does very little to no overhealing, and because this is RNG as to when it activates, the Major power is probably too much RNG to be useful on progression (Similar to the Legendary Chest in Legion, just even worse). 
+**Con:** [Healing Tide](https://www.wowhead.com/spell=108280/healing-tide-totem) is arguably one of the worst Healing CD’s unless it does very little to no overhealing, and because this is RNG as to when it activates, the Major power is probably too much RNG to be useful on progression (Similar to the Legendary Chest in Legion, just even worse).
 
-**Location:** Operation: Mechagon (new dungeon) 
+**Location:** Operation: Mechagon (new dungeon)
 
 * Rank 1: Kill King Mechagon
 * Rank 2: Loot the pattern from King Mechagon and learn/use it
@@ -241,19 +245,19 @@ Reduces the cooldown of Healing Tide Totem by 13% and increases your Versatility
 
 <div class="filename">Major</div>
 
-```
+```json
 (45 second CD) Direct the Vitality Conduit toward an ally. Every 0.5 seconds for 6 seconds, they transfer 9,482 health from the highest-health ally within 30 yards. If the target reaches full health, it jumps to the lowest-health nearby target for the remaining duration.
 ```
 
 <div class="filename">Minor</div>
 
-```
+```json
 (12 ppm + Haste) Targets of your heals have a very high chance to transfer 9,482 health from the highest-health ally within 30 yards. Health transfers leave 3,951 damage absorb shield on the target for 5 seconds.
 ```
 
 **Pro:** This will do a decent amount of healing to a target, on a relatively short CD. This could be decent in M+, especially with how much we can struggle to keep tanks up on some weeks. The Minor power could be nice, it was hard to test this on the PTR because you can only test Essences in the Proving Grounds (solo).
 
-**Con:** This is a life-steal, and especially during progression that is something to always be wary of. It does steal from the highest health player, which is nice, but probably won’t be good enough as a major to be worth using. 
+**Con:** This is a life-steal, and especially during progression that is something to always be wary of. It does steal from the highest health player, which is nice, but probably won’t be good enough as a major to be worth using.
 
 **Location:** Raiding
 
@@ -267,13 +271,13 @@ _Note_: The major is not a channel that you have to hold, but rather behaves lik
 
 <div class="filename">Major</div>
 
-```
+```json
 (1 minute CD) Concentrate energy into the Heart of Azeroth, immediately causing 3 Lifeblood Shards (Grants you and any other ally using this Essence 154 primary stat while within 12 yards of the Lifeblood Shard. You can benefit from a maximum of 4 Lifeblood Shards at a time) to erupt from the nearby ground for 18 seconds.
 ```
 
 <div class="filename">Minor</div>
 
-```
+```json
 (13sec avg spawn) Every 1-25 seconds, a Lifeblood Shard erupts from the nearby ground for 18 seconds.
 ```
 

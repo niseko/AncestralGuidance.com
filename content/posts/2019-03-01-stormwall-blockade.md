@@ -23,7 +23,7 @@ Sister Katherine has the following mechanics:
 
 Brother Joseph has the following mechanics:
 
-* [Sea Storm](https://www.wowhead.com/spell=284360/sea-storm) - multiple players will be targeted and drop a pool of [Sea Storm](https://www.wowhead.com/spell=284360/sea-storm) when Joseph's cast completes. 
+* [Sea Storm](https://www.wowhead.com/spell=284360/sea-storm) - multiple players will be targeted and drop a pool of [Sea Storm](https://www.wowhead.com/spell=284360/sea-storm) when Joseph's cast completes.
 * [Sea's Temptation](https://www.wowhead.com/spell=284383/seas-temptation) - a Tempting Siren will appear and charm a DPS member dealing single target damage over time to them and compelling them to walk towards the Siren and off the boat.  Focus healing on any player charmed as they are likely to die without focused heals.
 * [Tidal Volley](https://www.wowhead.com/spell=284316/tidal-volley) - see Sister Katherine's [Jolting Volley](https://www.wowhead.com/spell=287169/jolting-volley).
 * [Tidal Shroud](https://www.wowhead.com/spell=286558/tidal-shroud) - see Sister Katherine's [Electric Shroud](https://www.wowhead.com/spell=287995/electric-shroud).
@@ -36,7 +36,7 @@ On Mythic, the ghosts of Sister Katherine and Brother Joseph appear periodically
 
 ## Suggested Talents
 
-![](../images/raids/Champion.png)
+![Stormwall Talents](../images/raids/Champion.png)
 
 The only talent that is recommended to change is [EWT](https://www.wowhead.com/spell=198838/earthen-wall-totem) over to [AV](https://www.wowhead.com/spell=207401/ancestral-vigor) or [APT](https://www.wowhead.com/spell=207399/ancestral-protection-totem).  All three talents excel on this fight and there is no clear "best" choice.
 
