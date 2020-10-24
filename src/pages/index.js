@@ -29,11 +29,11 @@ export default class Index extends Component {
               <div>
                 <a
                   className="twitter-follow-button"
-                  href="https://twitter.com/shamansag"
+                  href="https://twitter.com/ShamansAG"
                   data-size="large"
-                  data-show-screen-name="false"
+                  data-show-screen-name="true"
                 >
-                  Follow @shamansag
+                  Follow @ShamansAG
                 </a>
               </div>
             </div>
