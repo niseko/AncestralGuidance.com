@@ -1,15 +1,3 @@
----
-author: Maeveycakes
-date: 2019-03-01 15:37:56+00:00
-excerpt: Learn how to defeat Stormwall Blockade as a Restoration Shaman.
-template: post
-link: http://ancestralguidance.com/stormwall-blockade/
-slug: stormwall-blockade
-title: Stormwall Blockade
-categories:
-- Battle of Dazar'alor
----
-
 ## Fight Mechanics
 
 Stormwall Blockade is a two phase fight in which you start by fighting Sister Katherine and Brother Joseph.  Regardless of which boat you start on, you will have to deal with both the Sister and the Brother, just in different orders.  
