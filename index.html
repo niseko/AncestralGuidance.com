@@ -10,6 +10,11 @@
     content='width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0'>
   <link rel='stylesheet' href='//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css'>
   <link rel='stylesheet' href='style.css' type='text/css'>
+  <link
+  rel="stylesheet"
+  href="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/style.min.css"
+/>
+
 </head>
 
 <body>
@@ -23,9 +28,25 @@
       //routerMode: 'history', //seems very broken sadly
       auto2top: true,
       name: 'Ancestral Guidance',
+      darkMode: {
+        dark: {
+          background: "#1c2022",
+          toggleBtnBg: "#34495e",
+          textColor: "#b4b4b4"
+        },
+        light: {
+          background: "white",
+          toggleBtnBg: "black",
+          textColor: "var(--theme-color)"
+        }
+      },
+      themeable: {
+          readyTransition : true, // default
+          responsiveTables: true  // default
+      },
       plugins: [
         function (hook, vm) {
-          hook.mounted(function () {
+          hook.ready(function () {
             // Called after initial completion. Only trigger once, no arguments.
             $WowheadPower.refreshLinks();
           });
@@ -34,6 +55,7 @@
     }
   </script>
   <script src='//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js'></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/index.min.js"></script>
   <script>const whTooltips = { colorLinks: true, iconizeLinks: true, renameLinks: true };</script>
   <script defer src='https://wow.zamimg.com/widgets/power.js'></script>
 </body>
