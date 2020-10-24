@@ -27,7 +27,7 @@
       function(hook, vm) {
       hook.init(function() {
         // Called when the script starts running, only trigger once, no arguments,
-        $WowheadPower.init();
+        $WowheadPower.refreshLinks();
       });
 
       hook.beforeEach(function(content) {
