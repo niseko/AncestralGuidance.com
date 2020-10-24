@@ -603,14 +603,11 @@ section.cover {
 	display: none
 }
 
-section.cover.show {
-	display: flex;
-	background: var(--coverBackground)!important;
-}
+
 
 section.cover.has-mask .mask {
 	background-color: #fff;
-	opacity: .8;
+	opacity: .4;
 	position: absolute;
 	top: 0;
 	height: 100%;
