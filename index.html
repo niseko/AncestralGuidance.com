@@ -25,8 +25,9 @@
       name: 'Ancestral Guidance',
       plugins: [
         function (hook, vm) {
-          hook.init(function () {
+          hook.afterEach(function(html, next) {
             $WowheadPower.refreshLinks();
+            next(html);
           });
         }
       ]
@@ -34,7 +35,7 @@
   </script>
   <script src='//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js'></script>
   <script>const whTooltips = { colorLinks: true, iconizeLinks: true, renameLinks: true };</script>
-  <script src='https://wow.zamimg.com/widgets/power.js'></script>
+  <script defer src='https://wow.zamimg.com/widgets/power.js'></script>
 </body>
 
 </html>
