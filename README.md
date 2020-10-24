@@ -1,38 +1,20 @@
-Website running on Gatsby, React, and Node.js.
+# Headline
 
-## Installation
+> An awesome project.
 
-Run local server:
+Test this stuff and so on yes yes yes
 
-```bash
-git clone https://github.com/niseko/AncestralGuidance.com
-cd AncestralGuidance.com
-yarn
-yarn run dev
-```
+Mollitia totam architecto sit. Asperiores in eaque deserunt libero provident ut itaque veniam. Omnis nulla praesentium ad saepe culpa dignissimos. Eius id reprehenderit dolores cum vel adipisci. Qui consequatur perspiciatis quia vel vero qui corrupti tempora. Possimus culpa assumenda et quo architecto quos.
 
-Navigate to `localhost:8000`.
+Amet minus esse assumenda sit ea beatae. Fugiat reiciendis possimus fuga eum quam. Id et natus dolorum consequatur itaque veniam.
 
-## Features
+Qui quos dignissimos est rerum quia voluptate iusto nihil. Minima sit aut unde et ducimus facilis aliquam. Qui praesentium enim qui aut. Tenetur excepturi est quaerat quasi similique consequatur eaque. Voluptatem in debitis impedit ad adipisci.
 
-- Posts and pages in Markdown
-- Tags and categories
-- Night mode
-- DOS mode (404)
-- Code theme (starring [New Moon](https://taniarascia.github.io/new-moon))
-- Sass (starring [Primitive](https://taniarascia.github.io/primitive))
+https://www.wowhead.com/spell=1064
 
-## Contributing
+[Chad Heal](https://www.wowhead.com/spell=1064)
 
-If you see any typos or formatting errors in a post, or any other issue that needs to be addressed, please do not hesitate to open a pull request and fix it!
+Nostrum repudiandae ea aliquid exercitationem. Saepe culpa qui tempore et est. Aut omnis magni consectetur impedit ex omnis ea.
 
-## Acknowledgements
+Quam voluptatem corporis repudiandae. Molestiae beatae fugit quos reprehenderit voluptatem asperiores. Culpa necessitatibus consequatur provident beatae debitis totam quo fugit. Natus id ipsa non mollitia quibusdam consectetur. Quam odit reprehenderit et quidem doloremque. Quas consectetur reiciendis dolor est veniam sed facilis.
 
-- Ruben Harutyunyan - [Gatsby Advanced Starter](https://github.com/vagr9k/gatsby-advanced-starter/)
-- Muhammad Muhsin - [Using React Context API with Gatsby](https://www.gatsbyjs.org/blog/2019-01-31-using-react-context-api-with-gatsby/)
-- Thomas Frössman - [ExitWP](https://github.com/thomasf/exitwp) - WordPress XML to Markdown
-- Tania Rascia - [taniarascia.com](https://github.com/taniarascia/taniarascia.com)
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
