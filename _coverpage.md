@@ -1,4 +1,3 @@
-
 # ![logo](aglogo.png)
 # __Ancestral Guidance__
 

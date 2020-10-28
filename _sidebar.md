@@ -1,5 +1,33 @@
-* [Home](/)
-* [test](/test.md)
-* [quicky](content/posts/2019-06-25-changes-in-82.md)
-* [boss test](content/posts/2019-03-01-stormwall-blockade.md)
-* [Echo of Eonar](content/posts/2018-07-14-stats.md)
+  - docs
+    - content
+      - posts
+        - [12 27 quick reference](/docs/content/posts/2017-12-27-quick-reference.md)
+        - [04 16 dpsing as a healer](/docs/content/posts/2018-04-16-dpsing-as-a-healer.md)
+        - [07 14 cbt](/docs/content/posts/2018-07-14-cbt.md)
+        - [07 14 changes in bfa](/docs/content/posts/2018-07-14-changes-in-bfa.md)
+        - [07 14 stats](/docs/content/posts/2018-07-14-stats.md)
+        - [07 14 talents](/docs/content/posts/2018-07-14-talents.md)
+        - [07 24 hidden spell mechanics](/docs/content/posts/2018-07-24-hidden-spell-mechanics.md)
+        - [08 13 azerite](/docs/content/posts/2018-08-13-azerite.md)
+        - [08 13 trinkets](/docs/content/posts/2018-08-13-trinkets.md)
+        - [10 14 spreadsheet](/docs/content/posts/2018-10-14-spreadsheet.md)
+        - [12 10 changes in 8 1](/docs/content/posts/2018-12-10-changes-in-8-1.md)
+        - [03 01 champion of the light](/docs/content/posts/2019-03-01-champion-of-the-light.md)
+        - [03 01 conclave of the chosen](/docs/content/posts/2019-03-01-conclave-of-the-chosen.md)
+        - [03 01 grong](/docs/content/posts/2019-03-01-grong.md)
+        - [03 01 high tinker mekkatorque](/docs/content/posts/2019-03-01-high-tinker-mekkatorque.md)
+        - [03 01 jadefire masters](/docs/content/posts/2019-03-01-jadefire-masters.md)
+        - [03 01 king rastakhan](/docs/content/posts/2019-03-01-king-rastakhan.md)
+        - [03 01 lady jaina proudmoore](/docs/content/posts/2019-03-01-lady-jaina-proudmoore.md)
+        - [03 01 opulence](/docs/content/posts/2019-03-01-opulence.md)
+        - [03 01 stormwall blockade](/docs/content/posts/2019-03-01-stormwall-blockade.md)
+        - [06 23 essence overview](/docs/content/posts/2019-06-23-essence-overview.md)
+        - [06 25 changes in 82](/docs/content/posts/2019-06-25-changes-in-82.md)
+    - content_archive
+      - [12 21 assigning healing cooldowns](/docs/content_archive/2017-12-21-assigning-healing-cooldowns.md)
+    - folder
+      - [test](/docs/folder/test.md)
+    - [spells](/docs/spells/README.md)
+      
+  - [test](/test.md)
+  - [_coverpage](/_coverpage.md)
